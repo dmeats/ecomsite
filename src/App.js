@@ -10,6 +10,8 @@ import LeftSideBarFilter from './components/LeftSideBarFilter'
 
 import CheckoutSummaryScreen from './components/CheckoutSummaryScreen'
 import MasterDataDetailList from './json/MasterDetailListInfo.json'
+
+//init all global variables for the web application
 export const APPLContext = React.createContext({
  checkboxes:[],
 
