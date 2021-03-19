@@ -1,0 +1,169 @@
+.HeaderContainer{
+    
+    display: flex;
+    flex-flow: space-between;
+    align-items: center;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0px;
+    flex-direction: row;
+    width: 100%;
+    height:100px;
+    background-image:linear-gradient( rgb(98, 62, 21),rgb(151, 118, 81));
+    
+    z-index: 300;
+}
+.CompanyName{
+    position: absolute;
+    top:23%;
+    left:1.5%;
+    width: 170px;
+    height: 25px;
+    background-color: rgb(69, 160, 77);
+    border-radius: 10px;
+    border:solid;
+    border-color: rgb(5, 5, 5);
+}
+.SearchInputBox{
+    position: absolute;
+    top:23%;
+    left:32%;
+    width: 40%;
+    height: 25px;
+    background-color: rgb(69, 160, 77);
+    border-radius: 10px;
+    border:solid;
+    border-color: rgb(0, 0, 0);
+
+}
+.SearchMagnifingGlass{
+    position: absolute;
+    border-radius: 25%;
+    border-bottom-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    width: 30px;
+    height:30px;
+    top:23%;
+    left:70.8%;
+    background-color: rgb(3, 3, 3);
+    cursor: pointer;
+}
+.iconitemsContainer{
+    display: flex;
+    flex-flow: space-between;
+    align-items: center;
+    position: absolute;
+    top:21%;
+    right: 4%;
+    width: 128px;
+    height: 35px;
+    border:solid;
+    border-radius:10px ;
+    border-color: black;
+    background-color: rgb(69, 160, 77);
+}
+.UserAccountIcon{
+    position: absolute;
+    top: 3px;
+    left: 0%;
+    font-size: 10px;
+    width: 30px;
+    
+}
+.userAccountWord{
+    position: absolute;
+    top: 3px;
+    font-size: 10px;
+    width: 30px;
+    left: 19%;
+}
+.shoppingCartIcon{
+    position: absolute;
+    top: 4px;
+    right: 28%;
+    font-size: 10px;
+    width: 30px;
+}
+.CheckoutWord{
+    position: absolute;
+    top: 3px;
+    right: 1%;
+    font-size: 10px;
+    width: 30px;
+}
+.Checkoutquanity{
+    position: absolute;
+    background-color: rgba(2, 5, 53, 0.431);
+    color: rgb(238, 255, 0);
+    border-radius: 25%;
+    align-content: center;
+    text-align: center;
+    
+    top: 3px;
+    right: 32.5%;
+    font-size: 12px;
+    font-weight: 300;
+    width: 19px;
+}
+.clearboth{
+    top:60%;
+    align-items: center;
+    position: relative;
+    color:white;
+}
+
+.hamburger{
+    top:45%;
+    position: absolute;
+    display:none;
+}
+@media screen and (max-width: 414px) {
+    .HeaderContainer {
+        height:120px;
+    }
+    .CompanyName{
+       
+        top:10%;
+        left:30%;
+        width: 170px;
+        height: 25px;
+        
+    }
+    .SearchInputBox{
+        position: absolute;
+        top:45%;
+        left:17%;
+        width: 40%;
+        height: 34px;
+       
+    
+    }
+    .SearchMagnifingGlass{
+        position: absolute;
+        
+        width: 30px;
+        height:39px;
+        top:45%;
+        left:52.8%;
+        
+    }
+    .iconitemsContainer{
+        display: flex;
+        flex-flow: space-between;
+        align-items: center;
+        position: absolute;
+        top:45%;
+        right: 4%;
+        width: 128px;
+        height: 35px;
+       
+    }
+    .hamburger{
+        left:5%;
+        top:48%;
+        position: absolute;
+        display: flex;
+        cursor: pointer;
+    }
+  }
+  

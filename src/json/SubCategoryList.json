@@ -1,0 +1,187 @@
+[
+	{
+		"ProductSubcategoryID" : 1,
+		"ProductCategoryID" : 1,
+		"SubCategoryName" : "Mountain Bikes"
+	},
+	{
+		"ProductSubcategoryID" : 2,
+		"ProductCategoryID" : 1,
+		"SubCategoryName" : "Road Bikes"
+	},
+	{
+		"ProductSubcategoryID" : 3,
+		"ProductCategoryID" : 1,
+		"SubCategoryName" : "Touring Bikes"
+	},
+	{
+		"ProductSubcategoryID" : 4,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Handlebars"
+	},
+	{
+		"ProductSubcategoryID" : 5,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Bottom Brackets"
+	},
+	{
+		"ProductSubcategoryID" : 6,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Brakes"
+	},
+	{
+		"ProductSubcategoryID" : 7,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Chains"
+	},
+	{
+		"ProductSubcategoryID" : 8,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Cranksets"
+	},
+	{
+		"ProductSubcategoryID" : 9,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Derailleurs"
+	},
+	{
+		"ProductSubcategoryID" : 10,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Forks"
+	},
+	{
+		"ProductSubcategoryID" : 11,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Headsets"
+	},
+	{
+		"ProductSubcategoryID" : 12,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Mountain Frames"
+	},
+	{
+		"ProductSubcategoryID" : 13,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Pedals"
+	},
+	{
+		"ProductSubcategoryID" : 14,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Road Frames"
+	},
+	{
+		"ProductSubcategoryID" : 15,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Saddles"
+	},
+	{
+		"ProductSubcategoryID" : 16,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Touring Frames"
+	},
+	{
+		"ProductSubcategoryID" : 17,
+		"ProductCategoryID" : 2,
+		"SubCategoryName" : "Wheels"
+	},
+	{
+		"ProductSubcategoryID" : 18,
+		"ProductCategoryID" : 3,
+		"SubCategoryName" : "Bib-Shorts"
+	},
+	{
+		"ProductSubcategoryID" : 19,
+		"ProductCategoryID" : 3,
+		"SubCategoryName" : "Caps"
+	},
+	{
+		"ProductSubcategoryID" : 20,
+		"ProductCategoryID" : 3,
+		"SubCategoryName" : "Gloves"
+	},
+	{
+		"ProductSubcategoryID" : 21,
+		"ProductCategoryID" : 3,
+		"SubCategoryName" : "Jerseys"
+	},
+	{
+		"ProductSubcategoryID" : 22,
+		"ProductCategoryID" : 3,
+		"SubCategoryName" : "Shorts"
+	},
+	{
+		"ProductSubcategoryID" : 23,
+		"ProductCategoryID" : 3,
+		"SubCategoryName" : "Socks"
+	},
+	{
+		"ProductSubcategoryID" : 24,
+		"ProductCategoryID" : 3,
+		"SubCategoryName" : "Tights"
+	},
+	{
+		"ProductSubcategoryID" : 25,
+		"ProductCategoryID" : 3,
+		"SubCategoryName" : "Vests"
+	},
+	{
+		"ProductSubcategoryID" : 26,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Bike Racks"
+	},
+	{
+		"ProductSubcategoryID" : 27,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Bike Stands"
+	},
+	{
+		"ProductSubcategoryID" : 28,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Bottles and Cages"
+	},
+	{
+		"ProductSubcategoryID" : 29,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Cleaners"
+	},
+	{
+		"ProductSubcategoryID" : 30,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Fenders"
+	},
+	{
+		"ProductSubcategoryID" : 31,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Helmets"
+	},
+	{
+		"ProductSubcategoryID" : 32,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Hydration Packs"
+	},
+	{
+		"ProductSubcategoryID" : 33,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Lights"
+	},
+	{
+		"ProductSubcategoryID" : 34,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Locks"
+	},
+	{
+		"ProductSubcategoryID" : 35,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Panniers"
+	},
+	{
+		"ProductSubcategoryID" : 36,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Pumps"
+	},
+	{
+		"ProductSubcategoryID" : 37,
+		"ProductCategoryID" : 4,
+		"SubCategoryName" : "Tires and Tubes"
+	}
+]

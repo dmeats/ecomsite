@@ -1,0 +1,5347 @@
+[
+	{
+		"ProductID" : 1,
+		"LocationID" : 1,
+		"Quantity" : 408
+	},
+	{
+		"ProductID" : 1,
+		"LocationID" : 6,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 1,
+		"LocationID" : 50,
+		"Quantity" : 353
+	},
+	{
+		"ProductID" : 2,
+		"LocationID" : 1,
+		"Quantity" : 427
+	},
+	{
+		"ProductID" : 2,
+		"LocationID" : 6,
+		"Quantity" : 318
+	},
+	{
+		"ProductID" : 2,
+		"LocationID" : 50,
+		"Quantity" : 364
+	},
+	{
+		"ProductID" : 3,
+		"LocationID" : 1,
+		"Quantity" : 585
+	},
+	{
+		"ProductID" : 3,
+		"LocationID" : 6,
+		"Quantity" : 443
+	},
+	{
+		"ProductID" : 3,
+		"LocationID" : 50,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 4,
+		"LocationID" : 1,
+		"Quantity" : 512
+	},
+	{
+		"ProductID" : 4,
+		"LocationID" : 6,
+		"Quantity" : 422
+	},
+	{
+		"ProductID" : 4,
+		"LocationID" : 50,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 316,
+		"LocationID" : 5,
+		"Quantity" : 532
+	},
+	{
+		"ProductID" : 316,
+		"LocationID" : 10,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 316,
+		"LocationID" : 50,
+		"Quantity" : 441
+	},
+	{
+		"ProductID" : 317,
+		"LocationID" : 1,
+		"Quantity" : 283
+	},
+	{
+		"ProductID" : 317,
+		"LocationID" : 5,
+		"Quantity" : 158
+	},
+	{
+		"ProductID" : 317,
+		"LocationID" : 50,
+		"Quantity" : 152
+	},
+	{
+		"ProductID" : 318,
+		"LocationID" : 1,
+		"Quantity" : 136
+	},
+	{
+		"ProductID" : 318,
+		"LocationID" : 5,
+		"Quantity" : 171
+	},
+	{
+		"ProductID" : 318,
+		"LocationID" : 50,
+		"Quantity" : 132
+	},
+	{
+		"ProductID" : 319,
+		"LocationID" : 1,
+		"Quantity" : 308
+	},
+	{
+		"ProductID" : 319,
+		"LocationID" : 5,
+		"Quantity" : 184
+	},
+	{
+		"ProductID" : 319,
+		"LocationID" : 50,
+		"Quantity" : 305
+	},
+	{
+		"ProductID" : 320,
+		"LocationID" : 1,
+		"Quantity" : 481
+	},
+	{
+		"ProductID" : 320,
+		"LocationID" : 5,
+		"Quantity" : 372
+	},
+	{
+		"ProductID" : 320,
+		"LocationID" : 50,
+		"Quantity" : 283
+	},
+	{
+		"ProductID" : 321,
+		"LocationID" : 1,
+		"Quantity" : 569
+	},
+	{
+		"ProductID" : 321,
+		"LocationID" : 5,
+		"Quantity" : 540
+	},
+	{
+		"ProductID" : 321,
+		"LocationID" : 50,
+		"Quantity" : 641
+	},
+	{
+		"ProductID" : 322,
+		"LocationID" : 1,
+		"Quantity" : 622
+	},
+	{
+		"ProductID" : 322,
+		"LocationID" : 5,
+		"Quantity" : 587
+	},
+	{
+		"ProductID" : 322,
+		"LocationID" : 50,
+		"Quantity" : 475
+	},
+	{
+		"ProductID" : 323,
+		"LocationID" : 1,
+		"Quantity" : 603
+	},
+	{
+		"ProductID" : 323,
+		"LocationID" : 5,
+		"Quantity" : 568
+	},
+	{
+		"ProductID" : 323,
+		"LocationID" : 50,
+		"Quantity" : 513
+	},
+	{
+		"ProductID" : 324,
+		"LocationID" : 1,
+		"Quantity" : 585
+	},
+	{
+		"ProductID" : 324,
+		"LocationID" : 5,
+		"Quantity" : 568
+	},
+	{
+		"ProductID" : 324,
+		"LocationID" : 50,
+		"Quantity" : 476
+	},
+	{
+		"ProductID" : 325,
+		"LocationID" : 1,
+		"Quantity" : 569
+	},
+	{
+		"ProductID" : 325,
+		"LocationID" : 6,
+		"Quantity" : 540
+	},
+	{
+		"ProductID" : 325,
+		"LocationID" : 60,
+		"Quantity" : 641
+	},
+	{
+		"ProductID" : 326,
+		"LocationID" : 1,
+		"Quantity" : 622
+	},
+	{
+		"ProductID" : 326,
+		"LocationID" : 6,
+		"Quantity" : 587
+	},
+	{
+		"ProductID" : 326,
+		"LocationID" : 60,
+		"Quantity" : 475
+	},
+	{
+		"ProductID" : 327,
+		"LocationID" : 5,
+		"Quantity" : 408
+	},
+	{
+		"ProductID" : 327,
+		"LocationID" : 10,
+		"Quantity" : 443
+	},
+	{
+		"ProductID" : 327,
+		"LocationID" : 50,
+		"Quantity" : 513
+	},
+	{
+		"ProductID" : 328,
+		"LocationID" : 5,
+		"Quantity" : 568
+	},
+	{
+		"ProductID" : 328,
+		"LocationID" : 10,
+		"Quantity" : 585
+	},
+	{
+		"ProductID" : 328,
+		"LocationID" : 50,
+		"Quantity" : 476
+	},
+	{
+		"ProductID" : 329,
+		"LocationID" : 5,
+		"Quantity" : 558
+	},
+	{
+		"ProductID" : 329,
+		"LocationID" : 10,
+		"Quantity" : 576
+	},
+	{
+		"ProductID" : 329,
+		"LocationID" : 50,
+		"Quantity" : 467
+	},
+	{
+		"ProductID" : 330,
+		"LocationID" : 5,
+		"Quantity" : 548
+	},
+	{
+		"ProductID" : 330,
+		"LocationID" : 10,
+		"Quantity" : 566
+	},
+	{
+		"ProductID" : 330,
+		"LocationID" : 50,
+		"Quantity" : 457
+	},
+	{
+		"ProductID" : 331,
+		"LocationID" : 5,
+		"Quantity" : 574
+	},
+	{
+		"ProductID" : 331,
+		"LocationID" : 10,
+		"Quantity" : 441
+	},
+	{
+		"ProductID" : 331,
+		"LocationID" : 50,
+		"Quantity" : 390
+	},
+	{
+		"ProductID" : 332,
+		"LocationID" : 5,
+		"Quantity" : 344
+	},
+	{
+		"ProductID" : 332,
+		"LocationID" : 10,
+		"Quantity" : 233
+	},
+	{
+		"ProductID" : 332,
+		"LocationID" : 50,
+		"Quantity" : 267
+	},
+	{
+		"ProductID" : 341,
+		"LocationID" : 1,
+		"Quantity" : 372
+	},
+	{
+		"ProductID" : 341,
+		"LocationID" : 50,
+		"Quantity" : 392
+	},
+	{
+		"ProductID" : 341,
+		"LocationID" : 60,
+		"Quantity" : 339
+	},
+	{
+		"ProductID" : 342,
+		"LocationID" : 1,
+		"Quantity" : 369
+	},
+	{
+		"ProductID" : 342,
+		"LocationID" : 50,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 342,
+		"LocationID" : 60,
+		"Quantity" : 336
+	},
+	{
+		"ProductID" : 343,
+		"LocationID" : 1,
+		"Quantity" : 568
+	},
+	{
+		"ProductID" : 343,
+		"LocationID" : 50,
+		"Quantity" : 606
+	},
+	{
+		"ProductID" : 343,
+		"LocationID" : 60,
+		"Quantity" : 499
+	},
+	{
+		"ProductID" : 344,
+		"LocationID" : 1,
+		"Quantity" : 358
+	},
+	{
+		"ProductID" : 344,
+		"LocationID" : 50,
+		"Quantity" : 332
+	},
+	{
+		"ProductID" : 344,
+		"LocationID" : 60,
+		"Quantity" : 382
+	},
+	{
+		"ProductID" : 345,
+		"LocationID" : 1,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 345,
+		"LocationID" : 50,
+		"Quantity" : 315
+	},
+	{
+		"ProductID" : 345,
+		"LocationID" : 60,
+		"Quantity" : 300
+	},
+	{
+		"ProductID" : 346,
+		"LocationID" : 1,
+		"Quantity" : 585
+	},
+	{
+		"ProductID" : 346,
+		"LocationID" : 50,
+		"Quantity" : 476
+	},
+	{
+		"ProductID" : 346,
+		"LocationID" : 60,
+		"Quantity" : 641
+	},
+	{
+		"ProductID" : 347,
+		"LocationID" : 1,
+		"Quantity" : 318
+	},
+	{
+		"ProductID" : 347,
+		"LocationID" : 50,
+		"Quantity" : 246
+	},
+	{
+		"ProductID" : 347,
+		"LocationID" : 60,
+		"Quantity" : 332
+	},
+	{
+		"ProductID" : 348,
+		"LocationID" : 1,
+		"Quantity" : 323
+	},
+	{
+		"ProductID" : 348,
+		"LocationID" : 50,
+		"Quantity" : 251
+	},
+	{
+		"ProductID" : 348,
+		"LocationID" : 60,
+		"Quantity" : 337
+	},
+	{
+		"ProductID" : 349,
+		"LocationID" : 1,
+		"Quantity" : 328
+	},
+	{
+		"ProductID" : 349,
+		"LocationID" : 50,
+		"Quantity" : 256
+	},
+	{
+		"ProductID" : 349,
+		"LocationID" : 60,
+		"Quantity" : 342
+	},
+	{
+		"ProductID" : 350,
+		"LocationID" : 5,
+		"Quantity" : 622
+	},
+	{
+		"ProductID" : 350,
+		"LocationID" : 10,
+		"Quantity" : 406
+	},
+	{
+		"ProductID" : 350,
+		"LocationID" : 50,
+		"Quantity" : 313
+	},
+	{
+		"ProductID" : 351,
+		"LocationID" : 5,
+		"Quantity" : 179
+	},
+	{
+		"ProductID" : 351,
+		"LocationID" : 10,
+		"Quantity" : 281
+	},
+	{
+		"ProductID" : 351,
+		"LocationID" : 50,
+		"Quantity" : 145
+	},
+	{
+		"ProductID" : 352,
+		"LocationID" : 5,
+		"Quantity" : 300
+	},
+	{
+		"ProductID" : 352,
+		"LocationID" : 10,
+		"Quantity" : 278
+	},
+	{
+		"ProductID" : 352,
+		"LocationID" : 50,
+		"Quantity" : 195
+	},
+	{
+		"ProductID" : 355,
+		"LocationID" : 1,
+		"Quantity" : 276
+	},
+	{
+		"ProductID" : 355,
+		"LocationID" : 6,
+		"Quantity" : 257
+	},
+	{
+		"ProductID" : 355,
+		"LocationID" : 50,
+		"Quantity" : 289
+	},
+	{
+		"ProductID" : 356,
+		"LocationID" : 1,
+		"Quantity" : 262
+	},
+	{
+		"ProductID" : 356,
+		"LocationID" : 6,
+		"Quantity" : 243
+	},
+	{
+		"ProductID" : 356,
+		"LocationID" : 50,
+		"Quantity" : 275
+	},
+	{
+		"ProductID" : 357,
+		"LocationID" : 1,
+		"Quantity" : 248
+	},
+	{
+		"ProductID" : 357,
+		"LocationID" : 6,
+		"Quantity" : 228
+	},
+	{
+		"ProductID" : 357,
+		"LocationID" : 50,
+		"Quantity" : 260
+	},
+	{
+		"ProductID" : 358,
+		"LocationID" : 1,
+		"Quantity" : 233
+	},
+	{
+		"ProductID" : 358,
+		"LocationID" : 6,
+		"Quantity" : 214
+	},
+	{
+		"ProductID" : 358,
+		"LocationID" : 50,
+		"Quantity" : 246
+	},
+	{
+		"ProductID" : 359,
+		"LocationID" : 1,
+		"Quantity" : 369
+	},
+	{
+		"ProductID" : 359,
+		"LocationID" : 6,
+		"Quantity" : 360
+	},
+	{
+		"ProductID" : 359,
+		"LocationID" : 50,
+		"Quantity" : 374
+	},
+	{
+		"ProductID" : 360,
+		"LocationID" : 1,
+		"Quantity" : 363
+	},
+	{
+		"ProductID" : 360,
+		"LocationID" : 6,
+		"Quantity" : 353
+	},
+	{
+		"ProductID" : 360,
+		"LocationID" : 50,
+		"Quantity" : 368
+	},
+	{
+		"ProductID" : 361,
+		"LocationID" : 1,
+		"Quantity" : 499
+	},
+	{
+		"ProductID" : 361,
+		"LocationID" : 6,
+		"Quantity" : 601
+	},
+	{
+		"ProductID" : 361,
+		"LocationID" : 50,
+		"Quantity" : 531
+	},
+	{
+		"ProductID" : 362,
+		"LocationID" : 1,
+		"Quantity" : 377
+	},
+	{
+		"ProductID" : 362,
+		"LocationID" : 6,
+		"Quantity" : 315
+	},
+	{
+		"ProductID" : 362,
+		"LocationID" : 50,
+		"Quantity" : 334
+	},
+	{
+		"ProductID" : 363,
+		"LocationID" : 1,
+		"Quantity" : 499
+	},
+	{
+		"ProductID" : 363,
+		"LocationID" : 6,
+		"Quantity" : 643
+	},
+	{
+		"ProductID" : 363,
+		"LocationID" : 50,
+		"Quantity" : 619
+	},
+	{
+		"ProductID" : 364,
+		"LocationID" : 1,
+		"Quantity" : 368
+	},
+	{
+		"ProductID" : 364,
+		"LocationID" : 6,
+		"Quantity" : 358
+	},
+	{
+		"ProductID" : 364,
+		"LocationID" : 50,
+		"Quantity" : 326
+	},
+	{
+		"ProductID" : 365,
+		"LocationID" : 1,
+		"Quantity" : 411
+	},
+	{
+		"ProductID" : 365,
+		"LocationID" : 6,
+		"Quantity" : 691
+	},
+	{
+		"ProductID" : 365,
+		"LocationID" : 50,
+		"Quantity" : 619
+	},
+	{
+		"ProductID" : 366,
+		"LocationID" : 1,
+		"Quantity" : 318
+	},
+	{
+		"ProductID" : 366,
+		"LocationID" : 6,
+		"Quantity" : 299
+	},
+	{
+		"ProductID" : 366,
+		"LocationID" : 50,
+		"Quantity" : 412
+	},
+	{
+		"ProductID" : 367,
+		"LocationID" : 1,
+		"Quantity" : 643
+	},
+	{
+		"ProductID" : 367,
+		"LocationID" : 6,
+		"Quantity" : 689
+	},
+	{
+		"ProductID" : 367,
+		"LocationID" : 50,
+		"Quantity" : 569
+	},
+	{
+		"ProductID" : 368,
+		"LocationID" : 1,
+		"Quantity" : 369
+	},
+	{
+		"ProductID" : 368,
+		"LocationID" : 6,
+		"Quantity" : 360
+	},
+	{
+		"ProductID" : 368,
+		"LocationID" : 50,
+		"Quantity" : 374
+	},
+	{
+		"ProductID" : 369,
+		"LocationID" : 1,
+		"Quantity" : 363
+	},
+	{
+		"ProductID" : 369,
+		"LocationID" : 6,
+		"Quantity" : 353
+	},
+	{
+		"ProductID" : 369,
+		"LocationID" : 50,
+		"Quantity" : 368
+	},
+	{
+		"ProductID" : 370,
+		"LocationID" : 1,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 370,
+		"LocationID" : 6,
+		"Quantity" : 155
+	},
+	{
+		"ProductID" : 370,
+		"LocationID" : 50,
+		"Quantity" : 476
+	},
+	{
+		"ProductID" : 371,
+		"LocationID" : 1,
+		"Quantity" : 585
+	},
+	{
+		"ProductID" : 371,
+		"LocationID" : 6,
+		"Quantity" : 649
+	},
+	{
+		"ProductID" : 371,
+		"LocationID" : 50,
+		"Quantity" : 547
+	},
+	{
+		"ProductID" : 372,
+		"LocationID" : 1,
+		"Quantity" : 281
+	},
+	{
+		"ProductID" : 372,
+		"LocationID" : 6,
+		"Quantity" : 344
+	},
+	{
+		"ProductID" : 372,
+		"LocationID" : 50,
+		"Quantity" : 272
+	},
+	{
+		"ProductID" : 373,
+		"LocationID" : 1,
+		"Quantity" : 284
+	},
+	{
+		"ProductID" : 373,
+		"LocationID" : 6,
+		"Quantity" : 347
+	},
+	{
+		"ProductID" : 373,
+		"LocationID" : 50,
+		"Quantity" : 275
+	},
+	{
+		"ProductID" : 374,
+		"LocationID" : 1,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 374,
+		"LocationID" : 6,
+		"Quantity" : 350
+	},
+	{
+		"ProductID" : 374,
+		"LocationID" : 50,
+		"Quantity" : 278
+	},
+	{
+		"ProductID" : 375,
+		"LocationID" : 1,
+		"Quantity" : 291
+	},
+	{
+		"ProductID" : 375,
+		"LocationID" : 6,
+		"Quantity" : 353
+	},
+	{
+		"ProductID" : 375,
+		"LocationID" : 50,
+		"Quantity" : 281
+	},
+	{
+		"ProductID" : 376,
+		"LocationID" : 1,
+		"Quantity" : 585
+	},
+	{
+		"ProductID" : 376,
+		"LocationID" : 6,
+		"Quantity" : 649
+	},
+	{
+		"ProductID" : 376,
+		"LocationID" : 50,
+		"Quantity" : 547
+	},
+	{
+		"ProductID" : 377,
+		"LocationID" : 1,
+		"Quantity" : 249
+	},
+	{
+		"ProductID" : 377,
+		"LocationID" : 6,
+		"Quantity" : 299
+	},
+	{
+		"ProductID" : 377,
+		"LocationID" : 50,
+		"Quantity" : 393
+	},
+	{
+		"ProductID" : 378,
+		"LocationID" : 1,
+		"Quantity" : 244
+	},
+	{
+		"ProductID" : 378,
+		"LocationID" : 6,
+		"Quantity" : 294
+	},
+	{
+		"ProductID" : 378,
+		"LocationID" : 50,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 379,
+		"LocationID" : 1,
+		"Quantity" : 323
+	},
+	{
+		"ProductID" : 379,
+		"LocationID" : 6,
+		"Quantity" : 897
+	},
+	{
+		"ProductID" : 379,
+		"LocationID" : 50,
+		"Quantity" : 691
+	},
+	{
+		"ProductID" : 380,
+		"LocationID" : 1,
+		"Quantity" : 156
+	},
+	{
+		"ProductID" : 380,
+		"LocationID" : 6,
+		"Quantity" : 264
+	},
+	{
+		"ProductID" : 380,
+		"LocationID" : 50,
+		"Quantity" : 350
+	},
+	{
+		"ProductID" : 381,
+		"LocationID" : 1,
+		"Quantity" : 163
+	},
+	{
+		"ProductID" : 381,
+		"LocationID" : 6,
+		"Quantity" : 270
+	},
+	{
+		"ProductID" : 381,
+		"LocationID" : 50,
+		"Quantity" : 356
+	},
+	{
+		"ProductID" : 382,
+		"LocationID" : 1,
+		"Quantity" : 169
+	},
+	{
+		"ProductID" : 382,
+		"LocationID" : 6,
+		"Quantity" : 276
+	},
+	{
+		"ProductID" : 382,
+		"LocationID" : 50,
+		"Quantity" : 363
+	},
+	{
+		"ProductID" : 383,
+		"LocationID" : 1,
+		"Quantity" : 587
+	},
+	{
+		"ProductID" : 383,
+		"LocationID" : 6,
+		"Quantity" : 676
+	},
+	{
+		"ProductID" : 383,
+		"LocationID" : 50,
+		"Quantity" : 638
+	},
+	{
+		"ProductID" : 384,
+		"LocationID" : 1,
+		"Quantity" : 299
+	},
+	{
+		"ProductID" : 384,
+		"LocationID" : 6,
+		"Quantity" : 217
+	},
+	{
+		"ProductID" : 384,
+		"LocationID" : 50,
+		"Quantity" : 304
+	},
+	{
+		"ProductID" : 385,
+		"LocationID" : 1,
+		"Quantity" : 619
+	},
+	{
+		"ProductID" : 385,
+		"LocationID" : 6,
+		"Quantity" : 526
+	},
+	{
+		"ProductID" : 385,
+		"LocationID" : 50,
+		"Quantity" : 633
+	},
+	{
+		"ProductID" : 386,
+		"LocationID" : 1,
+		"Quantity" : 148
+	},
+	{
+		"ProductID" : 386,
+		"LocationID" : 6,
+		"Quantity" : 192
+	},
+	{
+		"ProductID" : 386,
+		"LocationID" : 50,
+		"Quantity" : 385
+	},
+	{
+		"ProductID" : 387,
+		"LocationID" : 1,
+		"Quantity" : 524
+	},
+	{
+		"ProductID" : 387,
+		"LocationID" : 6,
+		"Quantity" : 710
+	},
+	{
+		"ProductID" : 387,
+		"LocationID" : 50,
+		"Quantity" : 654
+	},
+	{
+		"ProductID" : 388,
+		"LocationID" : 1,
+		"Quantity" : 292
+	},
+	{
+		"ProductID" : 388,
+		"LocationID" : 6,
+		"Quantity" : 140
+	},
+	{
+		"ProductID" : 388,
+		"LocationID" : 50,
+		"Quantity" : 366
+	},
+	{
+		"ProductID" : 389,
+		"LocationID" : 1,
+		"Quantity" : 657
+	},
+	{
+		"ProductID" : 389,
+		"LocationID" : 6,
+		"Quantity" : 691
+	},
+	{
+		"ProductID" : 389,
+		"LocationID" : 50,
+		"Quantity" : 460
+	},
+	{
+		"ProductID" : 390,
+		"LocationID" : 1,
+		"Quantity" : 292
+	},
+	{
+		"ProductID" : 390,
+		"LocationID" : 6,
+		"Quantity" : 140
+	},
+	{
+		"ProductID" : 390,
+		"LocationID" : 50,
+		"Quantity" : 366
+	},
+	{
+		"ProductID" : 391,
+		"LocationID" : 1,
+		"Quantity" : 296
+	},
+	{
+		"ProductID" : 391,
+		"LocationID" : 6,
+		"Quantity" : 144
+	},
+	{
+		"ProductID" : 391,
+		"LocationID" : 50,
+		"Quantity" : 369
+	},
+	{
+		"ProductID" : 392,
+		"LocationID" : 1,
+		"Quantity" : 299
+	},
+	{
+		"ProductID" : 392,
+		"LocationID" : 6,
+		"Quantity" : 147
+	},
+	{
+		"ProductID" : 392,
+		"LocationID" : 50,
+		"Quantity" : 372
+	},
+	{
+		"ProductID" : 393,
+		"LocationID" : 1,
+		"Quantity" : 603
+	},
+	{
+		"ProductID" : 393,
+		"LocationID" : 6,
+		"Quantity" : 780
+	},
+	{
+		"ProductID" : 393,
+		"LocationID" : 50,
+		"Quantity" : 497
+	},
+	{
+		"ProductID" : 394,
+		"LocationID" : 1,
+		"Quantity" : 302
+	},
+	{
+		"ProductID" : 394,
+		"LocationID" : 6,
+		"Quantity" : 150
+	},
+	{
+		"ProductID" : 394,
+		"LocationID" : 50,
+		"Quantity" : 459
+	},
+	{
+		"ProductID" : 395,
+		"LocationID" : 1,
+		"Quantity" : 281
+	},
+	{
+		"ProductID" : 395,
+		"LocationID" : 6,
+		"Quantity" : 355
+	},
+	{
+		"ProductID" : 395,
+		"LocationID" : 50,
+		"Quantity" : 148
+	},
+	{
+		"ProductID" : 396,
+		"LocationID" : 1,
+		"Quantity" : 636
+	},
+	{
+		"ProductID" : 396,
+		"LocationID" : 6,
+		"Quantity" : 585
+	},
+	{
+		"ProductID" : 396,
+		"LocationID" : 50,
+		"Quantity" : 603
+	},
+	{
+		"ProductID" : 397,
+		"LocationID" : 1,
+		"Quantity" : 339
+	},
+	{
+		"ProductID" : 397,
+		"LocationID" : 6,
+		"Quantity" : 550
+	},
+	{
+		"ProductID" : 397,
+		"LocationID" : 50,
+		"Quantity" : 763
+	},
+	{
+		"ProductID" : 398,
+		"LocationID" : 5,
+		"Quantity" : 372
+	},
+	{
+		"ProductID" : 398,
+		"LocationID" : 10,
+		"Quantity" : 404
+	},
+	{
+		"ProductID" : 398,
+		"LocationID" : 20,
+		"Quantity" : 550
+	},
+	{
+		"ProductID" : 399,
+		"LocationID" : 5,
+		"Quantity" : 366
+	},
+	{
+		"ProductID" : 399,
+		"LocationID" : 10,
+		"Quantity" : 398
+	},
+	{
+		"ProductID" : 399,
+		"LocationID" : 20,
+		"Quantity" : 544
+	},
+	{
+		"ProductID" : 400,
+		"LocationID" : 5,
+		"Quantity" : 260
+	},
+	{
+		"ProductID" : 400,
+		"LocationID" : 10,
+		"Quantity" : 246
+	},
+	{
+		"ProductID" : 400,
+		"LocationID" : 20,
+		"Quantity" : 284
+	},
+	{
+		"ProductID" : 401,
+		"LocationID" : 5,
+		"Quantity" : 283
+	},
+	{
+		"ProductID" : 401,
+		"LocationID" : 10,
+		"Quantity" : 212
+	},
+	{
+		"ProductID" : 401,
+		"LocationID" : 20,
+		"Quantity" : 302
+	},
+	{
+		"ProductID" : 402,
+		"LocationID" : 1,
+		"Quantity" : 316
+	},
+	{
+		"ProductID" : 402,
+		"LocationID" : 6,
+		"Quantity" : 353
+	},
+	{
+		"ProductID" : 402,
+		"LocationID" : 50,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 403,
+		"LocationID" : 1,
+		"Quantity" : 313
+	},
+	{
+		"ProductID" : 403,
+		"LocationID" : 6,
+		"Quantity" : 350
+	},
+	{
+		"ProductID" : 403,
+		"LocationID" : 50,
+		"Quantity" : 318
+	},
+	{
+		"ProductID" : 404,
+		"LocationID" : 1,
+		"Quantity" : 310
+	},
+	{
+		"ProductID" : 404,
+		"LocationID" : 6,
+		"Quantity" : 347
+	},
+	{
+		"ProductID" : 404,
+		"LocationID" : 50,
+		"Quantity" : 315
+	},
+	{
+		"ProductID" : 405,
+		"LocationID" : 1,
+		"Quantity" : 307
+	},
+	{
+		"ProductID" : 405,
+		"LocationID" : 6,
+		"Quantity" : 344
+	},
+	{
+		"ProductID" : 405,
+		"LocationID" : 50,
+		"Quantity" : 312
+	},
+	{
+		"ProductID" : 406,
+		"LocationID" : 1,
+		"Quantity" : 304
+	},
+	{
+		"ProductID" : 406,
+		"LocationID" : 6,
+		"Quantity" : 340
+	},
+	{
+		"ProductID" : 406,
+		"LocationID" : 50,
+		"Quantity" : 308
+	},
+	{
+		"ProductID" : 407,
+		"LocationID" : 1,
+		"Quantity" : 460
+	},
+	{
+		"ProductID" : 407,
+		"LocationID" : 6,
+		"Quantity" : 587
+	},
+	{
+		"ProductID" : 407,
+		"LocationID" : 50,
+		"Quantity" : 625
+	},
+	{
+		"ProductID" : 408,
+		"LocationID" : 1,
+		"Quantity" : 417
+	},
+	{
+		"ProductID" : 408,
+		"LocationID" : 6,
+		"Quantity" : 344
+	},
+	{
+		"ProductID" : 408,
+		"LocationID" : 50,
+		"Quantity" : 296
+	},
+	{
+		"ProductID" : 409,
+		"LocationID" : 1,
+		"Quantity" : 414
+	},
+	{
+		"ProductID" : 409,
+		"LocationID" : 6,
+		"Quantity" : 340
+	},
+	{
+		"ProductID" : 409,
+		"LocationID" : 50,
+		"Quantity" : 292
+	},
+	{
+		"ProductID" : 410,
+		"LocationID" : 1,
+		"Quantity" : 411
+	},
+	{
+		"ProductID" : 410,
+		"LocationID" : 6,
+		"Quantity" : 337
+	},
+	{
+		"ProductID" : 410,
+		"LocationID" : 50,
+		"Quantity" : 289
+	},
+	{
+		"ProductID" : 411,
+		"LocationID" : 1,
+		"Quantity" : 603
+	},
+	{
+		"ProductID" : 411,
+		"LocationID" : 6,
+		"Quantity" : 552
+	},
+	{
+		"ProductID" : 411,
+		"LocationID" : 50,
+		"Quantity" : 459
+	},
+	{
+		"ProductID" : 412,
+		"LocationID" : 1,
+		"Quantity" : 299
+	},
+	{
+		"ProductID" : 412,
+		"LocationID" : 6,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 412,
+		"LocationID" : 50,
+		"Quantity" : 156
+	},
+	{
+		"ProductID" : 413,
+		"LocationID" : 1,
+		"Quantity" : 641
+	},
+	{
+		"ProductID" : 413,
+		"LocationID" : 6,
+		"Quantity" : 603
+	},
+	{
+		"ProductID" : 413,
+		"LocationID" : 50,
+		"Quantity" : 459
+	},
+	{
+		"ProductID" : 414,
+		"LocationID" : 1,
+		"Quantity" : 427
+	},
+	{
+		"ProductID" : 414,
+		"LocationID" : 6,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 414,
+		"LocationID" : 50,
+		"Quantity" : 371
+	},
+	{
+		"ProductID" : 415,
+		"LocationID" : 1,
+		"Quantity" : 422
+	},
+	{
+		"ProductID" : 415,
+		"LocationID" : 6,
+		"Quantity" : 316
+	},
+	{
+		"ProductID" : 415,
+		"LocationID" : 50,
+		"Quantity" : 366
+	},
+	{
+		"ProductID" : 416,
+		"LocationID" : 1,
+		"Quantity" : 417
+	},
+	{
+		"ProductID" : 416,
+		"LocationID" : 6,
+		"Quantity" : 312
+	},
+	{
+		"ProductID" : 416,
+		"LocationID" : 50,
+		"Quantity" : 361
+	},
+	{
+		"ProductID" : 417,
+		"LocationID" : 1,
+		"Quantity" : 572
+	},
+	{
+		"ProductID" : 417,
+		"LocationID" : 6,
+		"Quantity" : 627
+	},
+	{
+		"ProductID" : 417,
+		"LocationID" : 50,
+		"Quantity" : 516
+	},
+	{
+		"ProductID" : 418,
+		"LocationID" : 1,
+		"Quantity" : 248
+	},
+	{
+		"ProductID" : 418,
+		"LocationID" : 6,
+		"Quantity" : 283
+	},
+	{
+		"ProductID" : 418,
+		"LocationID" : 50,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 419,
+		"LocationID" : 1,
+		"Quantity" : 246
+	},
+	{
+		"ProductID" : 419,
+		"LocationID" : 6,
+		"Quantity" : 281
+	},
+	{
+		"ProductID" : 419,
+		"LocationID" : 50,
+		"Quantity" : 387
+	},
+	{
+		"ProductID" : 420,
+		"LocationID" : 1,
+		"Quantity" : 244
+	},
+	{
+		"ProductID" : 420,
+		"LocationID" : 6,
+		"Quantity" : 280
+	},
+	{
+		"ProductID" : 420,
+		"LocationID" : 50,
+		"Quantity" : 385
+	},
+	{
+		"ProductID" : 421,
+		"LocationID" : 1,
+		"Quantity" : 243
+	},
+	{
+		"ProductID" : 421,
+		"LocationID" : 6,
+		"Quantity" : 278
+	},
+	{
+		"ProductID" : 421,
+		"LocationID" : 50,
+		"Quantity" : 384
+	},
+	{
+		"ProductID" : 422,
+		"LocationID" : 1,
+		"Quantity" : 620
+	},
+	{
+		"ProductID" : 422,
+		"LocationID" : 6,
+		"Quantity" : 515
+	},
+	{
+		"ProductID" : 422,
+		"LocationID" : 50,
+		"Quantity" : 497
+	},
+	{
+		"ProductID" : 423,
+		"LocationID" : 1,
+		"Quantity" : 619
+	},
+	{
+		"ProductID" : 423,
+		"LocationID" : 6,
+		"Quantity" : 513
+	},
+	{
+		"ProductID" : 423,
+		"LocationID" : 50,
+		"Quantity" : 496
+	},
+	{
+		"ProductID" : 424,
+		"LocationID" : 1,
+		"Quantity" : 617
+	},
+	{
+		"ProductID" : 424,
+		"LocationID" : 6,
+		"Quantity" : 512
+	},
+	{
+		"ProductID" : 424,
+		"LocationID" : 50,
+		"Quantity" : 494
+	},
+	{
+		"ProductID" : 425,
+		"LocationID" : 1,
+		"Quantity" : 616
+	},
+	{
+		"ProductID" : 425,
+		"LocationID" : 6,
+		"Quantity" : 510
+	},
+	{
+		"ProductID" : 425,
+		"LocationID" : 50,
+		"Quantity" : 492
+	},
+	{
+		"ProductID" : 426,
+		"LocationID" : 1,
+		"Quantity" : 614
+	},
+	{
+		"ProductID" : 426,
+		"LocationID" : 6,
+		"Quantity" : 508
+	},
+	{
+		"ProductID" : 426,
+		"LocationID" : 50,
+		"Quantity" : 491
+	},
+	{
+		"ProductID" : 427,
+		"LocationID" : 1,
+		"Quantity" : 612
+	},
+	{
+		"ProductID" : 427,
+		"LocationID" : 6,
+		"Quantity" : 507
+	},
+	{
+		"ProductID" : 427,
+		"LocationID" : 50,
+		"Quantity" : 489
+	},
+	{
+		"ProductID" : 428,
+		"LocationID" : 1,
+		"Quantity" : 611
+	},
+	{
+		"ProductID" : 428,
+		"LocationID" : 6,
+		"Quantity" : 505
+	},
+	{
+		"ProductID" : 428,
+		"LocationID" : 50,
+		"Quantity" : 488
+	},
+	{
+		"ProductID" : 429,
+		"LocationID" : 1,
+		"Quantity" : 609
+	},
+	{
+		"ProductID" : 429,
+		"LocationID" : 6,
+		"Quantity" : 504
+	},
+	{
+		"ProductID" : 429,
+		"LocationID" : 50,
+		"Quantity" : 486
+	},
+	{
+		"ProductID" : 430,
+		"LocationID" : 1,
+		"Quantity" : 608
+	},
+	{
+		"ProductID" : 430,
+		"LocationID" : 6,
+		"Quantity" : 502
+	},
+	{
+		"ProductID" : 430,
+		"LocationID" : 50,
+		"Quantity" : 484
+	},
+	{
+		"ProductID" : 431,
+		"LocationID" : 1,
+		"Quantity" : 611
+	},
+	{
+		"ProductID" : 431,
+		"LocationID" : 6,
+		"Quantity" : 505
+	},
+	{
+		"ProductID" : 431,
+		"LocationID" : 50,
+		"Quantity" : 488
+	},
+	{
+		"ProductID" : 432,
+		"LocationID" : 1,
+		"Quantity" : 614
+	},
+	{
+		"ProductID" : 432,
+		"LocationID" : 6,
+		"Quantity" : 508
+	},
+	{
+		"ProductID" : 432,
+		"LocationID" : 50,
+		"Quantity" : 491
+	},
+	{
+		"ProductID" : 433,
+		"LocationID" : 1,
+		"Quantity" : 617
+	},
+	{
+		"ProductID" : 433,
+		"LocationID" : 6,
+		"Quantity" : 512
+	},
+	{
+		"ProductID" : 433,
+		"LocationID" : 50,
+		"Quantity" : 494
+	},
+	{
+		"ProductID" : 434,
+		"LocationID" : 1,
+		"Quantity" : 620
+	},
+	{
+		"ProductID" : 434,
+		"LocationID" : 6,
+		"Quantity" : 515
+	},
+	{
+		"ProductID" : 434,
+		"LocationID" : 50,
+		"Quantity" : 497
+	},
+	{
+		"ProductID" : 435,
+		"LocationID" : 1,
+		"Quantity" : 624
+	},
+	{
+		"ProductID" : 435,
+		"LocationID" : 6,
+		"Quantity" : 518
+	},
+	{
+		"ProductID" : 435,
+		"LocationID" : 50,
+		"Quantity" : 500
+	},
+	{
+		"ProductID" : 436,
+		"LocationID" : 1,
+		"Quantity" : 627
+	},
+	{
+		"ProductID" : 436,
+		"LocationID" : 6,
+		"Quantity" : 521
+	},
+	{
+		"ProductID" : 436,
+		"LocationID" : 50,
+		"Quantity" : 504
+	},
+	{
+		"ProductID" : 437,
+		"LocationID" : 1,
+		"Quantity" : 630
+	},
+	{
+		"ProductID" : 437,
+		"LocationID" : 6,
+		"Quantity" : 524
+	},
+	{
+		"ProductID" : 437,
+		"LocationID" : 50,
+		"Quantity" : 507
+	},
+	{
+		"ProductID" : 438,
+		"LocationID" : 1,
+		"Quantity" : 633
+	},
+	{
+		"ProductID" : 438,
+		"LocationID" : 6,
+		"Quantity" : 528
+	},
+	{
+		"ProductID" : 438,
+		"LocationID" : 50,
+		"Quantity" : 510
+	},
+	{
+		"ProductID" : 439,
+		"LocationID" : 1,
+		"Quantity" : 636
+	},
+	{
+		"ProductID" : 439,
+		"LocationID" : 6,
+		"Quantity" : 531
+	},
+	{
+		"ProductID" : 439,
+		"LocationID" : 50,
+		"Quantity" : 513
+	},
+	{
+		"ProductID" : 440,
+		"LocationID" : 1,
+		"Quantity" : 640
+	},
+	{
+		"ProductID" : 440,
+		"LocationID" : 6,
+		"Quantity" : 534
+	},
+	{
+		"ProductID" : 440,
+		"LocationID" : 50,
+		"Quantity" : 516
+	},
+	{
+		"ProductID" : 441,
+		"LocationID" : 1,
+		"Quantity" : 635
+	},
+	{
+		"ProductID" : 441,
+		"LocationID" : 6,
+		"Quantity" : 529
+	},
+	{
+		"ProductID" : 441,
+		"LocationID" : 50,
+		"Quantity" : 512
+	},
+	{
+		"ProductID" : 442,
+		"LocationID" : 1,
+		"Quantity" : 630
+	},
+	{
+		"ProductID" : 442,
+		"LocationID" : 6,
+		"Quantity" : 524
+	},
+	{
+		"ProductID" : 442,
+		"LocationID" : 50,
+		"Quantity" : 507
+	},
+	{
+		"ProductID" : 443,
+		"LocationID" : 1,
+		"Quantity" : 625
+	},
+	{
+		"ProductID" : 443,
+		"LocationID" : 6,
+		"Quantity" : 520
+	},
+	{
+		"ProductID" : 443,
+		"LocationID" : 50,
+		"Quantity" : 502
+	},
+	{
+		"ProductID" : 444,
+		"LocationID" : 1,
+		"Quantity" : 620
+	},
+	{
+		"ProductID" : 444,
+		"LocationID" : 6,
+		"Quantity" : 515
+	},
+	{
+		"ProductID" : 444,
+		"LocationID" : 50,
+		"Quantity" : 497
+	},
+	{
+		"ProductID" : 445,
+		"LocationID" : 1,
+		"Quantity" : 616
+	},
+	{
+		"ProductID" : 445,
+		"LocationID" : 6,
+		"Quantity" : 510
+	},
+	{
+		"ProductID" : 445,
+		"LocationID" : 50,
+		"Quantity" : 492
+	},
+	{
+		"ProductID" : 446,
+		"LocationID" : 1,
+		"Quantity" : 611
+	},
+	{
+		"ProductID" : 446,
+		"LocationID" : 6,
+		"Quantity" : 505
+	},
+	{
+		"ProductID" : 446,
+		"LocationID" : 50,
+		"Quantity" : 488
+	},
+	{
+		"ProductID" : 447,
+		"LocationID" : 1,
+		"Quantity" : 606
+	},
+	{
+		"ProductID" : 447,
+		"LocationID" : 6,
+		"Quantity" : 500
+	},
+	{
+		"ProductID" : 447,
+		"LocationID" : 50,
+		"Quantity" : 483
+	},
+	{
+		"ProductID" : 448,
+		"LocationID" : 1,
+		"Quantity" : 601
+	},
+	{
+		"ProductID" : 448,
+		"LocationID" : 6,
+		"Quantity" : 496
+	},
+	{
+		"ProductID" : 448,
+		"LocationID" : 50,
+		"Quantity" : 478
+	},
+	{
+		"ProductID" : 449,
+		"LocationID" : 1,
+		"Quantity" : 596
+	},
+	{
+		"ProductID" : 449,
+		"LocationID" : 6,
+		"Quantity" : 491
+	},
+	{
+		"ProductID" : 449,
+		"LocationID" : 50,
+		"Quantity" : 473
+	},
+	{
+		"ProductID" : 450,
+		"LocationID" : 1,
+		"Quantity" : 592
+	},
+	{
+		"ProductID" : 450,
+		"LocationID" : 6,
+		"Quantity" : 486
+	},
+	{
+		"ProductID" : 450,
+		"LocationID" : 50,
+		"Quantity" : 468
+	},
+	{
+		"ProductID" : 451,
+		"LocationID" : 1,
+		"Quantity" : 595
+	},
+	{
+		"ProductID" : 451,
+		"LocationID" : 6,
+		"Quantity" : 489
+	},
+	{
+		"ProductID" : 451,
+		"LocationID" : 50,
+		"Quantity" : 472
+	},
+	{
+		"ProductID" : 452,
+		"LocationID" : 1,
+		"Quantity" : 598
+	},
+	{
+		"ProductID" : 452,
+		"LocationID" : 6,
+		"Quantity" : 492
+	},
+	{
+		"ProductID" : 452,
+		"LocationID" : 50,
+		"Quantity" : 475
+	},
+	{
+		"ProductID" : 453,
+		"LocationID" : 1,
+		"Quantity" : 601
+	},
+	{
+		"ProductID" : 453,
+		"LocationID" : 6,
+		"Quantity" : 496
+	},
+	{
+		"ProductID" : 453,
+		"LocationID" : 50,
+		"Quantity" : 478
+	},
+	{
+		"ProductID" : 454,
+		"LocationID" : 1,
+		"Quantity" : 604
+	},
+	{
+		"ProductID" : 454,
+		"LocationID" : 6,
+		"Quantity" : 499
+	},
+	{
+		"ProductID" : 454,
+		"LocationID" : 50,
+		"Quantity" : 481
+	},
+	{
+		"ProductID" : 455,
+		"LocationID" : 1,
+		"Quantity" : 608
+	},
+	{
+		"ProductID" : 455,
+		"LocationID" : 6,
+		"Quantity" : 502
+	},
+	{
+		"ProductID" : 455,
+		"LocationID" : 50,
+		"Quantity" : 484
+	},
+	{
+		"ProductID" : 456,
+		"LocationID" : 1,
+		"Quantity" : 611
+	},
+	{
+		"ProductID" : 456,
+		"LocationID" : 6,
+		"Quantity" : 505
+	},
+	{
+		"ProductID" : 456,
+		"LocationID" : 50,
+		"Quantity" : 488
+	},
+	{
+		"ProductID" : 457,
+		"LocationID" : 1,
+		"Quantity" : 614
+	},
+	{
+		"ProductID" : 457,
+		"LocationID" : 6,
+		"Quantity" : 508
+	},
+	{
+		"ProductID" : 457,
+		"LocationID" : 50,
+		"Quantity" : 491
+	},
+	{
+		"ProductID" : 458,
+		"LocationID" : 1,
+		"Quantity" : 617
+	},
+	{
+		"ProductID" : 458,
+		"LocationID" : 6,
+		"Quantity" : 512
+	},
+	{
+		"ProductID" : 458,
+		"LocationID" : 50,
+		"Quantity" : 494
+	},
+	{
+		"ProductID" : 459,
+		"LocationID" : 1,
+		"Quantity" : 620
+	},
+	{
+		"ProductID" : 459,
+		"LocationID" : 6,
+		"Quantity" : 515
+	},
+	{
+		"ProductID" : 459,
+		"LocationID" : 50,
+		"Quantity" : 497
+	},
+	{
+		"ProductID" : 460,
+		"LocationID" : 1,
+		"Quantity" : 624
+	},
+	{
+		"ProductID" : 460,
+		"LocationID" : 6,
+		"Quantity" : 518
+	},
+	{
+		"ProductID" : 460,
+		"LocationID" : 50,
+		"Quantity" : 500
+	},
+	{
+		"ProductID" : 461,
+		"LocationID" : 1,
+		"Quantity" : 627
+	},
+	{
+		"ProductID" : 461,
+		"LocationID" : 6,
+		"Quantity" : 521
+	},
+	{
+		"ProductID" : 461,
+		"LocationID" : 50,
+		"Quantity" : 504
+	},
+	{
+		"ProductID" : 462,
+		"LocationID" : 1,
+		"Quantity" : 310
+	},
+	{
+		"ProductID" : 462,
+		"LocationID" : 6,
+		"Quantity" : 204
+	},
+	{
+		"ProductID" : 462,
+		"LocationID" : 50,
+		"Quantity" : 187
+	},
+	{
+		"ProductID" : 463,
+		"LocationID" : 1,
+		"Quantity" : 499
+	},
+	{
+		"ProductID" : 463,
+		"LocationID" : 6,
+		"Quantity" : 566
+	},
+	{
+		"ProductID" : 463,
+		"LocationID" : 50,
+		"Quantity" : 620
+	},
+	{
+		"ProductID" : 464,
+		"LocationID" : 1,
+		"Quantity" : 500
+	},
+	{
+		"ProductID" : 464,
+		"LocationID" : 6,
+		"Quantity" : 568
+	},
+	{
+		"ProductID" : 464,
+		"LocationID" : 50,
+		"Quantity" : 622
+	},
+	{
+		"ProductID" : 465,
+		"LocationID" : 1,
+		"Quantity" : 502
+	},
+	{
+		"ProductID" : 465,
+		"LocationID" : 6,
+		"Quantity" : 569
+	},
+	{
+		"ProductID" : 465,
+		"LocationID" : 50,
+		"Quantity" : 624
+	},
+	{
+		"ProductID" : 466,
+		"LocationID" : 1,
+		"Quantity" : 504
+	},
+	{
+		"ProductID" : 466,
+		"LocationID" : 6,
+		"Quantity" : 571
+	},
+	{
+		"ProductID" : 466,
+		"LocationID" : 50,
+		"Quantity" : 625
+	},
+	{
+		"ProductID" : 467,
+		"LocationID" : 1,
+		"Quantity" : 505
+	},
+	{
+		"ProductID" : 467,
+		"LocationID" : 6,
+		"Quantity" : 572
+	},
+	{
+		"ProductID" : 467,
+		"LocationID" : 50,
+		"Quantity" : 627
+	},
+	{
+		"ProductID" : 468,
+		"LocationID" : 1,
+		"Quantity" : 507
+	},
+	{
+		"ProductID" : 468,
+		"LocationID" : 6,
+		"Quantity" : 574
+	},
+	{
+		"ProductID" : 468,
+		"LocationID" : 50,
+		"Quantity" : 628
+	},
+	{
+		"ProductID" : 469,
+		"LocationID" : 1,
+		"Quantity" : 508
+	},
+	{
+		"ProductID" : 469,
+		"LocationID" : 6,
+		"Quantity" : 576
+	},
+	{
+		"ProductID" : 469,
+		"LocationID" : 50,
+		"Quantity" : 630
+	},
+	{
+		"ProductID" : 470,
+		"LocationID" : 1,
+		"Quantity" : 510
+	},
+	{
+		"ProductID" : 470,
+		"LocationID" : 6,
+		"Quantity" : 577
+	},
+	{
+		"ProductID" : 470,
+		"LocationID" : 50,
+		"Quantity" : 632
+	},
+	{
+		"ProductID" : 471,
+		"LocationID" : 1,
+		"Quantity" : 512
+	},
+	{
+		"ProductID" : 471,
+		"LocationID" : 6,
+		"Quantity" : 579
+	},
+	{
+		"ProductID" : 471,
+		"LocationID" : 50,
+		"Quantity" : 633
+	},
+	{
+		"ProductID" : 472,
+		"LocationID" : 1,
+		"Quantity" : 513
+	},
+	{
+		"ProductID" : 472,
+		"LocationID" : 6,
+		"Quantity" : 580
+	},
+	{
+		"ProductID" : 472,
+		"LocationID" : 50,
+		"Quantity" : 635
+	},
+	{
+		"ProductID" : 473,
+		"LocationID" : 1,
+		"Quantity" : 515
+	},
+	{
+		"ProductID" : 473,
+		"LocationID" : 6,
+		"Quantity" : 582
+	},
+	{
+		"ProductID" : 473,
+		"LocationID" : 50,
+		"Quantity" : 636
+	},
+	{
+		"ProductID" : 474,
+		"LocationID" : 1,
+		"Quantity" : 516
+	},
+	{
+		"ProductID" : 474,
+		"LocationID" : 6,
+		"Quantity" : 584
+	},
+	{
+		"ProductID" : 474,
+		"LocationID" : 50,
+		"Quantity" : 638
+	},
+	{
+		"ProductID" : 475,
+		"LocationID" : 1,
+		"Quantity" : 518
+	},
+	{
+		"ProductID" : 475,
+		"LocationID" : 6,
+		"Quantity" : 585
+	},
+	{
+		"ProductID" : 475,
+		"LocationID" : 50,
+		"Quantity" : 640
+	},
+	{
+		"ProductID" : 476,
+		"LocationID" : 5,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 476,
+		"LocationID" : 10,
+		"Quantity" : 404
+	},
+	{
+		"ProductID" : 476,
+		"LocationID" : 20,
+		"Quantity" : 355
+	},
+	{
+		"ProductID" : 477,
+		"LocationID" : 2,
+		"Quantity" : 403
+	},
+	{
+		"ProductID" : 477,
+		"LocationID" : 5,
+		"Quantity" : 323
+	},
+	{
+		"ProductID" : 477,
+		"LocationID" : 10,
+		"Quantity" : 353
+	},
+	{
+		"ProductID" : 478,
+		"LocationID" : 2,
+		"Quantity" : 497
+	},
+	{
+		"ProductID" : 478,
+		"LocationID" : 5,
+		"Quantity" : 568
+	},
+	{
+		"ProductID" : 478,
+		"LocationID" : 10,
+		"Quantity" : 622
+	},
+	{
+		"ProductID" : 479,
+		"LocationID" : 2,
+		"Quantity" : 441
+	},
+	{
+		"ProductID" : 479,
+		"LocationID" : 5,
+		"Quantity" : 390
+	},
+	{
+		"ProductID" : 479,
+		"LocationID" : 10,
+		"Quantity" : 198
+	},
+	{
+		"ProductID" : 480,
+		"LocationID" : 2,
+		"Quantity" : 689
+	},
+	{
+		"ProductID" : 480,
+		"LocationID" : 5,
+		"Quantity" : 515
+	},
+	{
+		"ProductID" : 480,
+		"LocationID" : 10,
+		"Quantity" : 457
+	},
+	{
+		"ProductID" : 481,
+		"LocationID" : 2,
+		"Quantity" : 427
+	},
+	{
+		"ProductID" : 481,
+		"LocationID" : 5,
+		"Quantity" : 374
+	},
+	{
+		"ProductID" : 481,
+		"LocationID" : 10,
+		"Quantity" : 196
+	},
+	{
+		"ProductID" : 482,
+		"LocationID" : 2,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 482,
+		"LocationID" : 5,
+		"Quantity" : 427
+	},
+	{
+		"ProductID" : 482,
+		"LocationID" : 10,
+		"Quantity" : 176
+	},
+	{
+		"ProductID" : 483,
+		"LocationID" : 2,
+		"Quantity" : 691
+	},
+	{
+		"ProductID" : 483,
+		"LocationID" : 5,
+		"Quantity" : 531
+	},
+	{
+		"ProductID" : 483,
+		"LocationID" : 10,
+		"Quantity" : 459
+	},
+	{
+		"ProductID" : 484,
+		"LocationID" : 2,
+		"Quantity" : 427
+	},
+	{
+		"ProductID" : 484,
+		"LocationID" : 5,
+		"Quantity" : 374
+	},
+	{
+		"ProductID" : 484,
+		"LocationID" : 10,
+		"Quantity" : 196
+	},
+	{
+		"ProductID" : 485,
+		"LocationID" : 2,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 485,
+		"LocationID" : 5,
+		"Quantity" : 427
+	},
+	{
+		"ProductID" : 485,
+		"LocationID" : 10,
+		"Quantity" : 176
+	},
+	{
+		"ProductID" : 486,
+		"LocationID" : 2,
+		"Quantity" : 689
+	},
+	{
+		"ProductID" : 486,
+		"LocationID" : 5,
+		"Quantity" : 515
+	},
+	{
+		"ProductID" : 486,
+		"LocationID" : 10,
+		"Quantity" : 457
+	},
+	{
+		"ProductID" : 487,
+		"LocationID" : 2,
+		"Quantity" : 331
+	},
+	{
+		"ProductID" : 487,
+		"LocationID" : 5,
+		"Quantity" : 337
+	},
+	{
+		"ProductID" : 487,
+		"LocationID" : 10,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 488,
+		"LocationID" : 2,
+		"Quantity" : 312
+	},
+	{
+		"ProductID" : 488,
+		"LocationID" : 5,
+		"Quantity" : 318
+	},
+	{
+		"ProductID" : 488,
+		"LocationID" : 10,
+		"Quantity" : 305
+	},
+	{
+		"ProductID" : 489,
+		"LocationID" : 1,
+		"Quantity" : 612
+	},
+	{
+		"ProductID" : 489,
+		"LocationID" : 6,
+		"Quantity" : 619
+	},
+	{
+		"ProductID" : 489,
+		"LocationID" : 50,
+		"Quantity" : 606
+	},
+	{
+		"ProductID" : 490,
+		"LocationID" : 1,
+		"Quantity" : 593
+	},
+	{
+		"ProductID" : 490,
+		"LocationID" : 6,
+		"Quantity" : 600
+	},
+	{
+		"ProductID" : 490,
+		"LocationID" : 50,
+		"Quantity" : 587
+	},
+	{
+		"ProductID" : 491,
+		"LocationID" : 1,
+		"Quantity" : 254
+	},
+	{
+		"ProductID" : 491,
+		"LocationID" : 6,
+		"Quantity" : 420
+	},
+	{
+		"ProductID" : 491,
+		"LocationID" : 50,
+		"Quantity" : 248
+	},
+	{
+		"ProductID" : 492,
+		"LocationID" : 3,
+		"Quantity" : 17
+	},
+	{
+		"ProductID" : 492,
+		"LocationID" : 4,
+		"Quantity" : 14
+	},
+	{
+		"ProductID" : 492,
+		"LocationID" : 40,
+		"Quantity" : 16
+	},
+	{
+		"ProductID" : 493,
+		"LocationID" : 3,
+		"Quantity" : 41
+	},
+	{
+		"ProductID" : 493,
+		"LocationID" : 4,
+		"Quantity" : 24
+	},
+	{
+		"ProductID" : 493,
+		"LocationID" : 40,
+		"Quantity" : 28
+	},
+	{
+		"ProductID" : 494,
+		"LocationID" : 3,
+		"Quantity" : 49
+	},
+	{
+		"ProductID" : 494,
+		"LocationID" : 4,
+		"Quantity" : 12
+	},
+	{
+		"ProductID" : 494,
+		"LocationID" : 40,
+		"Quantity" : 4
+	},
+	{
+		"ProductID" : 495,
+		"LocationID" : 3,
+		"Quantity" : 49
+	},
+	{
+		"ProductID" : 495,
+		"LocationID" : 4,
+		"Quantity" : 35
+	},
+	{
+		"ProductID" : 495,
+		"LocationID" : 40,
+		"Quantity" : 25
+	},
+	{
+		"ProductID" : 496,
+		"LocationID" : 3,
+		"Quantity" : 30
+	},
+	{
+		"ProductID" : 496,
+		"LocationID" : 4,
+		"Quantity" : 25
+	},
+	{
+		"ProductID" : 496,
+		"LocationID" : 40,
+		"Quantity" : 44
+	},
+	{
+		"ProductID" : 497,
+		"LocationID" : 1,
+		"Quantity" : 336
+	},
+	{
+		"ProductID" : 497,
+		"LocationID" : 6,
+		"Quantity" : 364
+	},
+	{
+		"ProductID" : 497,
+		"LocationID" : 50,
+		"Quantity" : 273
+	},
+	{
+		"ProductID" : 504,
+		"LocationID" : 1,
+		"Quantity" : 392
+	},
+	{
+		"ProductID" : 504,
+		"LocationID" : 6,
+		"Quantity" : 372
+	},
+	{
+		"ProductID" : 504,
+		"LocationID" : 50,
+		"Quantity" : 320
+	},
+	{
+		"ProductID" : 505,
+		"LocationID" : 1,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 505,
+		"LocationID" : 6,
+		"Quantity" : 299
+	},
+	{
+		"ProductID" : 505,
+		"LocationID" : 50,
+		"Quantity" : 283
+	},
+	{
+		"ProductID" : 506,
+		"LocationID" : 1,
+		"Quantity" : 316
+	},
+	{
+		"ProductID" : 506,
+		"LocationID" : 6,
+		"Quantity" : 390
+	},
+	{
+		"ProductID" : 506,
+		"LocationID" : 50,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 507,
+		"LocationID" : 6,
+		"Quantity" : 673
+	},
+	{
+		"ProductID" : 507,
+		"LocationID" : 50,
+		"Quantity" : 542
+	},
+	{
+		"ProductID" : 508,
+		"LocationID" : 6,
+		"Quantity" : 681
+	},
+	{
+		"ProductID" : 508,
+		"LocationID" : 50,
+		"Quantity" : 550
+	},
+	{
+		"ProductID" : 509,
+		"LocationID" : 6,
+		"Quantity" : 689
+	},
+	{
+		"ProductID" : 509,
+		"LocationID" : 50,
+		"Quantity" : 558
+	},
+	{
+		"ProductID" : 510,
+		"LocationID" : 6,
+		"Quantity" : 406
+	},
+	{
+		"ProductID" : 510,
+		"LocationID" : 50,
+		"Quantity" : 316
+	},
+	{
+		"ProductID" : 511,
+		"LocationID" : 6,
+		"Quantity" : 390
+	},
+	{
+		"ProductID" : 511,
+		"LocationID" : 50,
+		"Quantity" : 350
+	},
+	{
+		"ProductID" : 512,
+		"LocationID" : 6,
+		"Quantity" : 334
+	},
+	{
+		"ProductID" : 512,
+		"LocationID" : 50,
+		"Quantity" : 281
+	},
+	{
+		"ProductID" : 513,
+		"LocationID" : 6,
+		"Quantity" : 640
+	},
+	{
+		"ProductID" : 513,
+		"LocationID" : 50,
+		"Quantity" : 724
+	},
+	{
+		"ProductID" : 514,
+		"LocationID" : 6,
+		"Quantity" : 267
+	},
+	{
+		"ProductID" : 514,
+		"LocationID" : 50,
+		"Quantity" : 318
+	},
+	{
+		"ProductID" : 514,
+		"LocationID" : 60,
+		"Quantity" : 212
+	},
+	{
+		"ProductID" : 515,
+		"LocationID" : 6,
+		"Quantity" : 268
+	},
+	{
+		"ProductID" : 515,
+		"LocationID" : 50,
+		"Quantity" : 320
+	},
+	{
+		"ProductID" : 515,
+		"LocationID" : 60,
+		"Quantity" : 214
+	},
+	{
+		"ProductID" : 516,
+		"LocationID" : 6,
+		"Quantity" : 270
+	},
+	{
+		"ProductID" : 516,
+		"LocationID" : 50,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 516,
+		"LocationID" : 60,
+		"Quantity" : 216
+	},
+	{
+		"ProductID" : 517,
+		"LocationID" : 6,
+		"Quantity" : 272
+	},
+	{
+		"ProductID" : 517,
+		"LocationID" : 50,
+		"Quantity" : 323
+	},
+	{
+		"ProductID" : 517,
+		"LocationID" : 60,
+		"Quantity" : 217
+	},
+	{
+		"ProductID" : 518,
+		"LocationID" : 6,
+		"Quantity" : 273
+	},
+	{
+		"ProductID" : 518,
+		"LocationID" : 50,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 518,
+		"LocationID" : 60,
+		"Quantity" : 219
+	},
+	{
+		"ProductID" : 519,
+		"LocationID" : 6,
+		"Quantity" : 275
+	},
+	{
+		"ProductID" : 519,
+		"LocationID" : 50,
+		"Quantity" : 326
+	},
+	{
+		"ProductID" : 519,
+		"LocationID" : 60,
+		"Quantity" : 220
+	},
+	{
+		"ProductID" : 520,
+		"LocationID" : 6,
+		"Quantity" : 276
+	},
+	{
+		"ProductID" : 520,
+		"LocationID" : 50,
+		"Quantity" : 328
+	},
+	{
+		"ProductID" : 520,
+		"LocationID" : 60,
+		"Quantity" : 222
+	},
+	{
+		"ProductID" : 521,
+		"LocationID" : 6,
+		"Quantity" : 278
+	},
+	{
+		"ProductID" : 521,
+		"LocationID" : 50,
+		"Quantity" : 329
+	},
+	{
+		"ProductID" : 521,
+		"LocationID" : 60,
+		"Quantity" : 224
+	},
+	{
+		"ProductID" : 522,
+		"LocationID" : 6,
+		"Quantity" : 280
+	},
+	{
+		"ProductID" : 522,
+		"LocationID" : 50,
+		"Quantity" : 331
+	},
+	{
+		"ProductID" : 522,
+		"LocationID" : 60,
+		"Quantity" : 225
+	},
+	{
+		"ProductID" : 523,
+		"LocationID" : 6,
+		"Quantity" : 164
+	},
+	{
+		"ProductID" : 523,
+		"LocationID" : 50,
+		"Quantity" : 209
+	},
+	{
+		"ProductID" : 523,
+		"LocationID" : 60,
+		"Quantity" : 139
+	},
+	{
+		"ProductID" : 524,
+		"LocationID" : 6,
+		"Quantity" : 124
+	},
+	{
+		"ProductID" : 524,
+		"LocationID" : 50,
+		"Quantity" : 228
+	},
+	{
+		"ProductID" : 524,
+		"LocationID" : 60,
+		"Quantity" : 107
+	},
+	{
+		"ProductID" : 525,
+		"LocationID" : 6,
+		"Quantity" : 644
+	},
+	{
+		"ProductID" : 525,
+		"LocationID" : 50,
+		"Quantity" : 619
+	},
+	{
+		"ProductID" : 526,
+		"LocationID" : 6,
+		"Quantity" : 587
+	},
+	{
+		"ProductID" : 526,
+		"LocationID" : 50,
+		"Quantity" : 624
+	},
+	{
+		"ProductID" : 527,
+		"LocationID" : 6,
+		"Quantity" : 888
+	},
+	{
+		"ProductID" : 527,
+		"LocationID" : 50,
+		"Quantity" : 702
+	},
+	{
+		"ProductID" : 528,
+		"LocationID" : 6,
+		"Quantity" : 924
+	},
+	{
+		"ProductID" : 528,
+		"LocationID" : 60,
+		"Quantity" : 729
+	},
+	{
+		"ProductID" : 529,
+		"LocationID" : 6,
+		"Quantity" : 425
+	},
+	{
+		"ProductID" : 529,
+		"LocationID" : 60,
+		"Quantity" : 371
+	},
+	{
+		"ProductID" : 530,
+		"LocationID" : 6,
+		"Quantity" : 336
+	},
+	{
+		"ProductID" : 530,
+		"LocationID" : 60,
+		"Quantity" : 444
+	},
+	{
+		"ProductID" : 531,
+		"LocationID" : 6,
+		"Quantity" : 427
+	},
+	{
+		"ProductID" : 531,
+		"LocationID" : 60,
+		"Quantity" : 374
+	},
+	{
+		"ProductID" : 532,
+		"LocationID" : 6,
+		"Quantity" : 715
+	},
+	{
+		"ProductID" : 532,
+		"LocationID" : 60,
+		"Quantity" : 542
+	},
+	{
+		"ProductID" : 533,
+		"LocationID" : 6,
+		"Quantity" : 443
+	},
+	{
+		"ProductID" : 533,
+		"LocationID" : 60,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 534,
+		"LocationID" : 6,
+		"Quantity" : 379
+	},
+	{
+		"ProductID" : 534,
+		"LocationID" : 50,
+		"Quantity" : 278
+	},
+	{
+		"ProductID" : 535,
+		"LocationID" : 6,
+		"Quantity" : 427
+	},
+	{
+		"ProductID" : 535,
+		"LocationID" : 50,
+		"Quantity" : 409
+	},
+	{
+		"ProductID" : 679,
+		"LocationID" : 1,
+		"Quantity" : 164
+	},
+	{
+		"ProductID" : 679,
+		"LocationID" : 6,
+		"Quantity" : 136
+	},
+	{
+		"ProductID" : 679,
+		"LocationID" : 50,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 707,
+		"LocationID" : 7,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 708,
+		"LocationID" : 7,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 709,
+		"LocationID" : 7,
+		"Quantity" : 180
+	},
+	{
+		"ProductID" : 710,
+		"LocationID" : 7,
+		"Quantity" : 216
+	},
+	{
+		"ProductID" : 711,
+		"LocationID" : 7,
+		"Quantity" : 216
+	},
+	{
+		"ProductID" : 712,
+		"LocationID" : 7,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 713,
+		"LocationID" : 7,
+		"Quantity" : 144
+	},
+	{
+		"ProductID" : 714,
+		"LocationID" : 7,
+		"Quantity" : 180
+	},
+	{
+		"ProductID" : 715,
+		"LocationID" : 7,
+		"Quantity" : 216
+	},
+	{
+		"ProductID" : 716,
+		"LocationID" : 7,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 747,
+		"LocationID" : 10,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 747,
+		"LocationID" : 20,
+		"Quantity" : 161
+	},
+	{
+		"ProductID" : 747,
+		"LocationID" : 30,
+		"Quantity" : 148
+	},
+	{
+		"ProductID" : 747,
+		"LocationID" : 40,
+		"Quantity" : 107
+	},
+	{
+		"ProductID" : 747,
+		"LocationID" : 50,
+		"Quantity" : 160
+	},
+	{
+		"ProductID" : 747,
+		"LocationID" : 60,
+		"Quantity" : 137
+	},
+	{
+		"ProductID" : 748,
+		"LocationID" : 10,
+		"Quantity" : 105
+	},
+	{
+		"ProductID" : 748,
+		"LocationID" : 20,
+		"Quantity" : 145
+	},
+	{
+		"ProductID" : 748,
+		"LocationID" : 30,
+		"Quantity" : 132
+	},
+	{
+		"ProductID" : 748,
+		"LocationID" : 45,
+		"Quantity" : 91
+	},
+	{
+		"ProductID" : 748,
+		"LocationID" : 50,
+		"Quantity" : 144
+	},
+	{
+		"ProductID" : 748,
+		"LocationID" : 60,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 749,
+		"LocationID" : 7,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 749,
+		"LocationID" : 60,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 750,
+		"LocationID" : 7,
+		"Quantity" : 102
+	},
+	{
+		"ProductID" : 750,
+		"LocationID" : 60,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 751,
+		"LocationID" : 7,
+		"Quantity" : 32
+	},
+	{
+		"ProductID" : 751,
+		"LocationID" : 60,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 752,
+		"LocationID" : 7,
+		"Quantity" : 52
+	},
+	{
+		"ProductID" : 752,
+		"LocationID" : 60,
+		"Quantity" : 76
+	},
+	{
+		"ProductID" : 753,
+		"LocationID" : 7,
+		"Quantity" : 112
+	},
+	{
+		"ProductID" : 753,
+		"LocationID" : 60,
+		"Quantity" : 51
+	},
+	{
+		"ProductID" : 754,
+		"LocationID" : 7,
+		"Quantity" : 65
+	},
+	{
+		"ProductID" : 754,
+		"LocationID" : 60,
+		"Quantity" : 83
+	},
+	{
+		"ProductID" : 755,
+		"LocationID" : 7,
+		"Quantity" : 75
+	},
+	{
+		"ProductID" : 755,
+		"LocationID" : 60,
+		"Quantity" : 62
+	},
+	{
+		"ProductID" : 756,
+		"LocationID" : 7,
+		"Quantity" : 30
+	},
+	{
+		"ProductID" : 756,
+		"LocationID" : 60,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 757,
+		"LocationID" : 7,
+		"Quantity" : 56
+	},
+	{
+		"ProductID" : 757,
+		"LocationID" : 60,
+		"Quantity" : 78
+	},
+	{
+		"ProductID" : 758,
+		"LocationID" : 7,
+		"Quantity" : 116
+	},
+	{
+		"ProductID" : 758,
+		"LocationID" : 60,
+		"Quantity" : 49
+	},
+	{
+		"ProductID" : 759,
+		"LocationID" : 7,
+		"Quantity" : 112
+	},
+	{
+		"ProductID" : 759,
+		"LocationID" : 60,
+		"Quantity" : 51
+	},
+	{
+		"ProductID" : 760,
+		"LocationID" : 7,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 760,
+		"LocationID" : 60,
+		"Quantity" : 86
+	},
+	{
+		"ProductID" : 761,
+		"LocationID" : 7,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 761,
+		"LocationID" : 60,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 762,
+		"LocationID" : 7,
+		"Quantity" : 75
+	},
+	{
+		"ProductID" : 762,
+		"LocationID" : 60,
+		"Quantity" : 62
+	},
+	{
+		"ProductID" : 763,
+		"LocationID" : 7,
+		"Quantity" : 102
+	},
+	{
+		"ProductID" : 763,
+		"LocationID" : 60,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 764,
+		"LocationID" : 7,
+		"Quantity" : 32
+	},
+	{
+		"ProductID" : 764,
+		"LocationID" : 60,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 765,
+		"LocationID" : 7,
+		"Quantity" : 56
+	},
+	{
+		"ProductID" : 765,
+		"LocationID" : 60,
+		"Quantity" : 78
+	},
+	{
+		"ProductID" : 766,
+		"LocationID" : 7,
+		"Quantity" : 116
+	},
+	{
+		"ProductID" : 766,
+		"LocationID" : 60,
+		"Quantity" : 49
+	},
+	{
+		"ProductID" : 767,
+		"LocationID" : 7,
+		"Quantity" : 100
+	},
+	{
+		"ProductID" : 767,
+		"LocationID" : 60,
+		"Quantity" : 88
+	},
+	{
+		"ProductID" : 768,
+		"LocationID" : 7,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 768,
+		"LocationID" : 60,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 769,
+		"LocationID" : 7,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 769,
+		"LocationID" : 60,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 770,
+		"LocationID" : 7,
+		"Quantity" : 104
+	},
+	{
+		"ProductID" : 770,
+		"LocationID" : 60,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 771,
+		"LocationID" : 7,
+		"Quantity" : 49
+	},
+	{
+		"ProductID" : 771,
+		"LocationID" : 60,
+		"Quantity" : 100
+	},
+	{
+		"ProductID" : 772,
+		"LocationID" : 7,
+		"Quantity" : 88
+	},
+	{
+		"ProductID" : 772,
+		"LocationID" : 60,
+		"Quantity" : 65
+	},
+	{
+		"ProductID" : 773,
+		"LocationID" : 7,
+		"Quantity" : 83
+	},
+	{
+		"ProductID" : 773,
+		"LocationID" : 60,
+		"Quantity" : 75
+	},
+	{
+		"ProductID" : 774,
+		"LocationID" : 7,
+		"Quantity" : 62
+	},
+	{
+		"ProductID" : 774,
+		"LocationID" : 60,
+		"Quantity" : 102
+	},
+	{
+		"ProductID" : 775,
+		"LocationID" : 7,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 775,
+		"LocationID" : 60,
+		"Quantity" : 56
+	},
+	{
+		"ProductID" : 776,
+		"LocationID" : 7,
+		"Quantity" : 78
+	},
+	{
+		"ProductID" : 776,
+		"LocationID" : 60,
+		"Quantity" : 116
+	},
+	{
+		"ProductID" : 777,
+		"LocationID" : 7,
+		"Quantity" : 49
+	},
+	{
+		"ProductID" : 777,
+		"LocationID" : 60,
+		"Quantity" : 100
+	},
+	{
+		"ProductID" : 778,
+		"LocationID" : 7,
+		"Quantity" : 88
+	},
+	{
+		"ProductID" : 778,
+		"LocationID" : 60,
+		"Quantity" : 65
+	},
+	{
+		"ProductID" : 779,
+		"LocationID" : 7,
+		"Quantity" : 75
+	},
+	{
+		"ProductID" : 779,
+		"LocationID" : 60,
+		"Quantity" : 62
+	},
+	{
+		"ProductID" : 780,
+		"LocationID" : 7,
+		"Quantity" : 102
+	},
+	{
+		"ProductID" : 780,
+		"LocationID" : 60,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 781,
+		"LocationID" : 7,
+		"Quantity" : 32
+	},
+	{
+		"ProductID" : 781,
+		"LocationID" : 60,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 782,
+		"LocationID" : 7,
+		"Quantity" : 100
+	},
+	{
+		"ProductID" : 782,
+		"LocationID" : 60,
+		"Quantity" : 88
+	},
+	{
+		"ProductID" : 783,
+		"LocationID" : 7,
+		"Quantity" : 65
+	},
+	{
+		"ProductID" : 783,
+		"LocationID" : 60,
+		"Quantity" : 83
+	},
+	{
+		"ProductID" : 784,
+		"LocationID" : 7,
+		"Quantity" : 75
+	},
+	{
+		"ProductID" : 784,
+		"LocationID" : 60,
+		"Quantity" : 62
+	},
+	{
+		"ProductID" : 785,
+		"LocationID" : 7,
+		"Quantity" : 75
+	},
+	{
+		"ProductID" : 785,
+		"LocationID" : 60,
+		"Quantity" : 62
+	},
+	{
+		"ProductID" : 786,
+		"LocationID" : 7,
+		"Quantity" : 102
+	},
+	{
+		"ProductID" : 786,
+		"LocationID" : 60,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 787,
+		"LocationID" : 7,
+		"Quantity" : 32
+	},
+	{
+		"ProductID" : 787,
+		"LocationID" : 60,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 788,
+		"LocationID" : 7,
+		"Quantity" : 52
+	},
+	{
+		"ProductID" : 788,
+		"LocationID" : 60,
+		"Quantity" : 76
+	},
+	{
+		"ProductID" : 789,
+		"LocationID" : 7,
+		"Quantity" : 112
+	},
+	{
+		"ProductID" : 789,
+		"LocationID" : 60,
+		"Quantity" : 51
+	},
+	{
+		"ProductID" : 790,
+		"LocationID" : 7,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 790,
+		"LocationID" : 60,
+		"Quantity" : 86
+	},
+	{
+		"ProductID" : 791,
+		"LocationID" : 7,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 791,
+		"LocationID" : 60,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 792,
+		"LocationID" : 7,
+		"Quantity" : 104
+	},
+	{
+		"ProductID" : 792,
+		"LocationID" : 60,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 793,
+		"LocationID" : 7,
+		"Quantity" : 56
+	},
+	{
+		"ProductID" : 793,
+		"LocationID" : 60,
+		"Quantity" : 78
+	},
+	{
+		"ProductID" : 794,
+		"LocationID" : 7,
+		"Quantity" : 116
+	},
+	{
+		"ProductID" : 794,
+		"LocationID" : 60,
+		"Quantity" : 49
+	},
+	{
+		"ProductID" : 795,
+		"LocationID" : 7,
+		"Quantity" : 100
+	},
+	{
+		"ProductID" : 795,
+		"LocationID" : 60,
+		"Quantity" : 88
+	},
+	{
+		"ProductID" : 796,
+		"LocationID" : 7,
+		"Quantity" : 65
+	},
+	{
+		"ProductID" : 796,
+		"LocationID" : 60,
+		"Quantity" : 83
+	},
+	{
+		"ProductID" : 797,
+		"LocationID" : 7,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 797,
+		"LocationID" : 60,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 798,
+		"LocationID" : 7,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 798,
+		"LocationID" : 60,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 799,
+		"LocationID" : 7,
+		"Quantity" : 104
+	},
+	{
+		"ProductID" : 799,
+		"LocationID" : 60,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 800,
+		"LocationID" : 7,
+		"Quantity" : 30
+	},
+	{
+		"ProductID" : 800,
+		"LocationID" : 60,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 801,
+		"LocationID" : 7,
+		"Quantity" : 56
+	},
+	{
+		"ProductID" : 801,
+		"LocationID" : 60,
+		"Quantity" : 78
+	},
+	{
+		"ProductID" : 802,
+		"LocationID" : 5,
+		"Quantity" : 350
+	},
+	{
+		"ProductID" : 802,
+		"LocationID" : 10,
+		"Quantity" : 240
+	},
+	{
+		"ProductID" : 802,
+		"LocationID" : 50,
+		"Quantity" : 273
+	},
+	{
+		"ProductID" : 803,
+		"LocationID" : 5,
+		"Quantity" : 356
+	},
+	{
+		"ProductID" : 803,
+		"LocationID" : 10,
+		"Quantity" : 246
+	},
+	{
+		"ProductID" : 803,
+		"LocationID" : 50,
+		"Quantity" : 280
+	},
+	{
+		"ProductID" : 804,
+		"LocationID" : 5,
+		"Quantity" : 363
+	},
+	{
+		"ProductID" : 804,
+		"LocationID" : 10,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 804,
+		"LocationID" : 50,
+		"Quantity" : 286
+	},
+	{
+		"ProductID" : 805,
+		"LocationID" : 1,
+		"Quantity" : 284
+	},
+	{
+		"ProductID" : 805,
+		"LocationID" : 6,
+		"Quantity" : 265
+	},
+	{
+		"ProductID" : 805,
+		"LocationID" : 50,
+		"Quantity" : 212
+	},
+	{
+		"ProductID" : 806,
+		"LocationID" : 1,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 806,
+		"LocationID" : 6,
+		"Quantity" : 268
+	},
+	{
+		"ProductID" : 806,
+		"LocationID" : 50,
+		"Quantity" : 216
+	},
+	{
+		"ProductID" : 807,
+		"LocationID" : 1,
+		"Quantity" : 291
+	},
+	{
+		"ProductID" : 807,
+		"LocationID" : 6,
+		"Quantity" : 272
+	},
+	{
+		"ProductID" : 807,
+		"LocationID" : 50,
+		"Quantity" : 219
+	},
+	{
+		"ProductID" : 808,
+		"LocationID" : 10,
+		"Quantity" : 267
+	},
+	{
+		"ProductID" : 808,
+		"LocationID" : 20,
+		"Quantity" : 276
+	},
+	{
+		"ProductID" : 808,
+		"LocationID" : 50,
+		"Quantity" : 316
+	},
+	{
+		"ProductID" : 809,
+		"LocationID" : 10,
+		"Quantity" : 264
+	},
+	{
+		"ProductID" : 809,
+		"LocationID" : 20,
+		"Quantity" : 273
+	},
+	{
+		"ProductID" : 809,
+		"LocationID" : 50,
+		"Quantity" : 313
+	},
+	{
+		"ProductID" : 810,
+		"LocationID" : 10,
+		"Quantity" : 260
+	},
+	{
+		"ProductID" : 810,
+		"LocationID" : 20,
+		"Quantity" : 270
+	},
+	{
+		"ProductID" : 810,
+		"LocationID" : 50,
+		"Quantity" : 310
+	},
+	{
+		"ProductID" : 811,
+		"LocationID" : 10,
+		"Quantity" : 257
+	},
+	{
+		"ProductID" : 811,
+		"LocationID" : 20,
+		"Quantity" : 267
+	},
+	{
+		"ProductID" : 811,
+		"LocationID" : 50,
+		"Quantity" : 307
+	},
+	{
+		"ProductID" : 812,
+		"LocationID" : 10,
+		"Quantity" : 254
+	},
+	{
+		"ProductID" : 812,
+		"LocationID" : 20,
+		"Quantity" : 264
+	},
+	{
+		"ProductID" : 812,
+		"LocationID" : 50,
+		"Quantity" : 304
+	},
+	{
+		"ProductID" : 813,
+		"LocationID" : 10,
+		"Quantity" : 251
+	},
+	{
+		"ProductID" : 813,
+		"LocationID" : 20,
+		"Quantity" : 260
+	},
+	{
+		"ProductID" : 813,
+		"LocationID" : 50,
+		"Quantity" : 300
+	},
+	{
+		"ProductID" : 814,
+		"LocationID" : 10,
+		"Quantity" : 110
+	},
+	{
+		"ProductID" : 814,
+		"LocationID" : 20,
+		"Quantity" : 150
+	},
+	{
+		"ProductID" : 814,
+		"LocationID" : 30,
+		"Quantity" : 137
+	},
+	{
+		"ProductID" : 814,
+		"LocationID" : 40,
+		"Quantity" : 96
+	},
+	{
+		"ProductID" : 814,
+		"LocationID" : 50,
+		"Quantity" : 148
+	},
+	{
+		"ProductID" : 814,
+		"LocationID" : 60,
+		"Quantity" : 126
+	},
+	{
+		"ProductID" : 815,
+		"LocationID" : 5,
+		"Quantity" : 265
+	},
+	{
+		"ProductID" : 815,
+		"LocationID" : 50,
+		"Quantity" : 457
+	},
+	{
+		"ProductID" : 816,
+		"LocationID" : 5,
+		"Quantity" : 406
+	},
+	{
+		"ProductID" : 816,
+		"LocationID" : 50,
+		"Quantity" : 412
+	},
+	{
+		"ProductID" : 817,
+		"LocationID" : 5,
+		"Quantity" : 443
+	},
+	{
+		"ProductID" : 817,
+		"LocationID" : 50,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 818,
+		"LocationID" : 5,
+		"Quantity" : 428
+	},
+	{
+		"ProductID" : 818,
+		"LocationID" : 50,
+		"Quantity" : 460
+	},
+	{
+		"ProductID" : 819,
+		"LocationID" : 5,
+		"Quantity" : 409
+	},
+	{
+		"ProductID" : 819,
+		"LocationID" : 50,
+		"Quantity" : 384
+	},
+	{
+		"ProductID" : 820,
+		"LocationID" : 5,
+		"Quantity" : 446
+	},
+	{
+		"ProductID" : 820,
+		"LocationID" : 50,
+		"Quantity" : 232
+	},
+	{
+		"ProductID" : 821,
+		"LocationID" : 5,
+		"Quantity" : 432
+	},
+	{
+		"ProductID" : 821,
+		"LocationID" : 50,
+		"Quantity" : 304
+	},
+	{
+		"ProductID" : 822,
+		"LocationID" : 10,
+		"Quantity" : 115
+	},
+	{
+		"ProductID" : 822,
+		"LocationID" : 20,
+		"Quantity" : 155
+	},
+	{
+		"ProductID" : 822,
+		"LocationID" : 30,
+		"Quantity" : 142
+	},
+	{
+		"ProductID" : 822,
+		"LocationID" : 40,
+		"Quantity" : 100
+	},
+	{
+		"ProductID" : 822,
+		"LocationID" : 50,
+		"Quantity" : 153
+	},
+	{
+		"ProductID" : 822,
+		"LocationID" : 60,
+		"Quantity" : 131
+	},
+	{
+		"ProductID" : 823,
+		"LocationID" : 6,
+		"Quantity" : 425
+	},
+	{
+		"ProductID" : 823,
+		"LocationID" : 50,
+		"Quantity" : 256
+	},
+	{
+		"ProductID" : 824,
+		"LocationID" : 6,
+		"Quantity" : 411
+	},
+	{
+		"ProductID" : 824,
+		"LocationID" : 50,
+		"Quantity" : 401
+	},
+	{
+		"ProductID" : 825,
+		"LocationID" : 6,
+		"Quantity" : 396
+	},
+	{
+		"ProductID" : 825,
+		"LocationID" : 50,
+		"Quantity" : 387
+	},
+	{
+		"ProductID" : 826,
+		"LocationID" : 6,
+		"Quantity" : 393
+	},
+	{
+		"ProductID" : 826,
+		"LocationID" : 50,
+		"Quantity" : 406
+	},
+	{
+		"ProductID" : 827,
+		"LocationID" : 6,
+		"Quantity" : 412
+	},
+	{
+		"ProductID" : 827,
+		"LocationID" : 50,
+		"Quantity" : 425
+	},
+	{
+		"ProductID" : 828,
+		"LocationID" : 6,
+		"Quantity" : 432
+	},
+	{
+		"ProductID" : 828,
+		"LocationID" : 50,
+		"Quantity" : 284
+	},
+	{
+		"ProductID" : 829,
+		"LocationID" : 6,
+		"Quantity" : 265
+	},
+	{
+		"ProductID" : 829,
+		"LocationID" : 50,
+		"Quantity" : 476
+	},
+	{
+		"ProductID" : 841,
+		"LocationID" : 7,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 842,
+		"LocationID" : 7,
+		"Quantity" : 72
+	},
+	{
+		"ProductID" : 843,
+		"LocationID" : 7,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 844,
+		"LocationID" : 7,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 845,
+		"LocationID" : 7,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 846,
+		"LocationID" : 7,
+		"Quantity" : 144
+	},
+	{
+		"ProductID" : 847,
+		"LocationID" : 7,
+		"Quantity" : 180
+	},
+	{
+		"ProductID" : 848,
+		"LocationID" : 7,
+		"Quantity" : 216
+	},
+	{
+		"ProductID" : 849,
+		"LocationID" : 7,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 850,
+		"LocationID" : 7,
+		"Quantity" : 144
+	},
+	{
+		"ProductID" : 851,
+		"LocationID" : 7,
+		"Quantity" : 180
+	},
+	{
+		"ProductID" : 852,
+		"LocationID" : 7,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 853,
+		"LocationID" : 7,
+		"Quantity" : 0
+	},
+	{
+		"ProductID" : 854,
+		"LocationID" : 7,
+		"Quantity" : 36
+	},
+	{
+		"ProductID" : 855,
+		"LocationID" : 7,
+		"Quantity" : 72
+	},
+	{
+		"ProductID" : 856,
+		"LocationID" : 7,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 857,
+		"LocationID" : 7,
+		"Quantity" : 144
+	},
+	{
+		"ProductID" : 858,
+		"LocationID" : 7,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 859,
+		"LocationID" : 7,
+		"Quantity" : 0
+	},
+	{
+		"ProductID" : 860,
+		"LocationID" : 7,
+		"Quantity" : 36
+	},
+	{
+		"ProductID" : 861,
+		"LocationID" : 7,
+		"Quantity" : 72
+	},
+	{
+		"ProductID" : 862,
+		"LocationID" : 7,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 863,
+		"LocationID" : 7,
+		"Quantity" : 144
+	},
+	{
+		"ProductID" : 864,
+		"LocationID" : 7,
+		"Quantity" : 180
+	},
+	{
+		"ProductID" : 865,
+		"LocationID" : 7,
+		"Quantity" : 216
+	},
+	{
+		"ProductID" : 866,
+		"LocationID" : 7,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 867,
+		"LocationID" : 7,
+		"Quantity" : 216
+	},
+	{
+		"ProductID" : 868,
+		"LocationID" : 7,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 869,
+		"LocationID" : 7,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 870,
+		"LocationID" : 7,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 871,
+		"LocationID" : 7,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 872,
+		"LocationID" : 7,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 873,
+		"LocationID" : 7,
+		"Quantity" : 180
+	},
+	{
+		"ProductID" : 874,
+		"LocationID" : 7,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 875,
+		"LocationID" : 7,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 876,
+		"LocationID" : 7,
+		"Quantity" : 0
+	},
+	{
+		"ProductID" : 877,
+		"LocationID" : 7,
+		"Quantity" : 36
+	},
+	{
+		"ProductID" : 878,
+		"LocationID" : 7,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 879,
+		"LocationID" : 7,
+		"Quantity" : 144
+	},
+	{
+		"ProductID" : 880,
+		"LocationID" : 7,
+		"Quantity" : 108
+	},
+	{
+		"ProductID" : 881,
+		"LocationID" : 7,
+		"Quantity" : 324
+	},
+	{
+		"ProductID" : 882,
+		"LocationID" : 7,
+		"Quantity" : 0
+	},
+	{
+		"ProductID" : 883,
+		"LocationID" : 7,
+		"Quantity" : 36
+	},
+	{
+		"ProductID" : 884,
+		"LocationID" : 7,
+		"Quantity" : 72
+	},
+	{
+		"ProductID" : 894,
+		"LocationID" : 1,
+		"Quantity" : 337
+	},
+	{
+		"ProductID" : 894,
+		"LocationID" : 6,
+		"Quantity" : 355
+	},
+	{
+		"ProductID" : 894,
+		"LocationID" : 50,
+		"Quantity" : 155
+	},
+	{
+		"ProductID" : 907,
+		"LocationID" : 1,
+		"Quantity" : 337
+	},
+	{
+		"ProductID" : 907,
+		"LocationID" : 6,
+		"Quantity" : 228
+	},
+	{
+		"ProductID" : 907,
+		"LocationID" : 50,
+		"Quantity" : 158
+	},
+	{
+		"ProductID" : 908,
+		"LocationID" : 6,
+		"Quantity" : 400
+	},
+	{
+		"ProductID" : 908,
+		"LocationID" : 50,
+		"Quantity" : 214
+	},
+	{
+		"ProductID" : 908,
+		"LocationID" : 60,
+		"Quantity" : 195
+	},
+	{
+		"ProductID" : 909,
+		"LocationID" : 6,
+		"Quantity" : 230
+	},
+	{
+		"ProductID" : 909,
+		"LocationID" : 50,
+		"Quantity" : 72
+	},
+	{
+		"ProductID" : 909,
+		"LocationID" : 60,
+		"Quantity" : 120
+	},
+	{
+		"ProductID" : 910,
+		"LocationID" : 6,
+		"Quantity" : 91
+	},
+	{
+		"ProductID" : 910,
+		"LocationID" : 50,
+		"Quantity" : 168
+	},
+	{
+		"ProductID" : 910,
+		"LocationID" : 60,
+		"Quantity" : 96
+	},
+	{
+		"ProductID" : 911,
+		"LocationID" : 6,
+		"Quantity" : 283
+	},
+	{
+		"ProductID" : 911,
+		"LocationID" : 50,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 911,
+		"LocationID" : 60,
+		"Quantity" : 302
+	},
+	{
+		"ProductID" : 912,
+		"LocationID" : 6,
+		"Quantity" : 302
+	},
+	{
+		"ProductID" : 912,
+		"LocationID" : 50,
+		"Quantity" : 353
+	},
+	{
+		"ProductID" : 912,
+		"LocationID" : 60,
+		"Quantity" : 246
+	},
+	{
+		"ProductID" : 913,
+		"LocationID" : 6,
+		"Quantity" : 169
+	},
+	{
+		"ProductID" : 913,
+		"LocationID" : 50,
+		"Quantity" : 145
+	},
+	{
+		"ProductID" : 913,
+		"LocationID" : 60,
+		"Quantity" : 153
+	},
+	{
+		"ProductID" : 914,
+		"LocationID" : 6,
+		"Quantity" : 248
+	},
+	{
+		"ProductID" : 914,
+		"LocationID" : 50,
+		"Quantity" : 171
+	},
+	{
+		"ProductID" : 914,
+		"LocationID" : 60,
+		"Quantity" : 382
+	},
+	{
+		"ProductID" : 915,
+		"LocationID" : 6,
+		"Quantity" : 161
+	},
+	{
+		"ProductID" : 915,
+		"LocationID" : 50,
+		"Quantity" : 83
+	},
+	{
+		"ProductID" : 915,
+		"LocationID" : 60,
+		"Quantity" : 158
+	},
+	{
+		"ProductID" : 916,
+		"LocationID" : 6,
+		"Quantity" : 425
+	},
+	{
+		"ProductID" : 916,
+		"LocationID" : 50,
+		"Quantity" : 288
+	},
+	{
+		"ProductID" : 916,
+		"LocationID" : 60,
+		"Quantity" : 276
+	},
+	{
+		"ProductID" : 921,
+		"LocationID" : 6,
+		"Quantity" : 286
+	},
+	{
+		"ProductID" : 921,
+		"LocationID" : 50,
+		"Quantity" : 243
+	},
+	{
+		"ProductID" : 922,
+		"LocationID" : 6,
+		"Quantity" : 264
+	},
+	{
+		"ProductID" : 922,
+		"LocationID" : 50,
+		"Quantity" : 241
+	},
+	{
+		"ProductID" : 923,
+		"LocationID" : 6,
+		"Quantity" : 262
+	},
+	{
+		"ProductID" : 923,
+		"LocationID" : 50,
+		"Quantity" : 240
+	},
+	{
+		"ProductID" : 928,
+		"LocationID" : 6,
+		"Quantity" : 240
+	},
+	{
+		"ProductID" : 928,
+		"LocationID" : 50,
+		"Quantity" : 369
+	},
+	{
+		"ProductID" : 929,
+		"LocationID" : 6,
+		"Quantity" : 385
+	},
+	{
+		"ProductID" : 929,
+		"LocationID" : 50,
+		"Quantity" : 284
+	},
+	{
+		"ProductID" : 930,
+		"LocationID" : 6,
+		"Quantity" : 267
+	},
+	{
+		"ProductID" : 930,
+		"LocationID" : 50,
+		"Quantity" : 232
+	},
+	{
+		"ProductID" : 931,
+		"LocationID" : 6,
+		"Quantity" : 236
+	},
+	{
+		"ProductID" : 931,
+		"LocationID" : 50,
+		"Quantity" : 252
+	},
+	{
+		"ProductID" : 932,
+		"LocationID" : 6,
+		"Quantity" : 382
+	},
+	{
+		"ProductID" : 932,
+		"LocationID" : 50,
+		"Quantity" : 192
+	},
+	{
+		"ProductID" : 933,
+		"LocationID" : 6,
+		"Quantity" : 299
+	},
+	{
+		"ProductID" : 933,
+		"LocationID" : 50,
+		"Quantity" : 228
+	},
+	{
+		"ProductID" : 934,
+		"LocationID" : 6,
+		"Quantity" : 233
+	},
+	{
+		"ProductID" : 934,
+		"LocationID" : 50,
+		"Quantity" : 249
+	},
+	{
+		"ProductID" : 935,
+		"LocationID" : 1,
+		"Quantity" : 174
+	},
+	{
+		"ProductID" : 935,
+		"LocationID" : 6,
+		"Quantity" : 182
+	},
+	{
+		"ProductID" : 935,
+		"LocationID" : 50,
+		"Quantity" : 156
+	},
+	{
+		"ProductID" : 936,
+		"LocationID" : 1,
+		"Quantity" : 172
+	},
+	{
+		"ProductID" : 936,
+		"LocationID" : 6,
+		"Quantity" : 180
+	},
+	{
+		"ProductID" : 936,
+		"LocationID" : 50,
+		"Quantity" : 155
+	},
+	{
+		"ProductID" : 937,
+		"LocationID" : 1,
+		"Quantity" : 171
+	},
+	{
+		"ProductID" : 937,
+		"LocationID" : 6,
+		"Quantity" : 179
+	},
+	{
+		"ProductID" : 937,
+		"LocationID" : 50,
+		"Quantity" : 153
+	},
+	{
+		"ProductID" : 938,
+		"LocationID" : 1,
+		"Quantity" : 169
+	},
+	{
+		"ProductID" : 938,
+		"LocationID" : 6,
+		"Quantity" : 177
+	},
+	{
+		"ProductID" : 938,
+		"LocationID" : 50,
+		"Quantity" : 152
+	},
+	{
+		"ProductID" : 939,
+		"LocationID" : 1,
+		"Quantity" : 168
+	},
+	{
+		"ProductID" : 939,
+		"LocationID" : 6,
+		"Quantity" : 176
+	},
+	{
+		"ProductID" : 939,
+		"LocationID" : 50,
+		"Quantity" : 150
+	},
+	{
+		"ProductID" : 940,
+		"LocationID" : 1,
+		"Quantity" : 316
+	},
+	{
+		"ProductID" : 940,
+		"LocationID" : 6,
+		"Quantity" : 267
+	},
+	{
+		"ProductID" : 940,
+		"LocationID" : 50,
+		"Quantity" : 323
+	},
+	{
+		"ProductID" : 941,
+		"LocationID" : 1,
+		"Quantity" : 235
+	},
+	{
+		"ProductID" : 941,
+		"LocationID" : 6,
+		"Quantity" : 262
+	},
+	{
+		"ProductID" : 941,
+		"LocationID" : 50,
+		"Quantity" : 388
+	},
+	{
+		"ProductID" : 942,
+		"LocationID" : 10,
+		"Quantity" : 120
+	},
+	{
+		"ProductID" : 942,
+		"LocationID" : 20,
+		"Quantity" : 160
+	},
+	{
+		"ProductID" : 942,
+		"LocationID" : 30,
+		"Quantity" : 147
+	},
+	{
+		"ProductID" : 942,
+		"LocationID" : 45,
+		"Quantity" : 105
+	},
+	{
+		"ProductID" : 942,
+		"LocationID" : 50,
+		"Quantity" : 158
+	},
+	{
+		"ProductID" : 942,
+		"LocationID" : 60,
+		"Quantity" : 136
+	},
+	{
+		"ProductID" : 943,
+		"LocationID" : 10,
+		"Quantity" : 102
+	},
+	{
+		"ProductID" : 943,
+		"LocationID" : 20,
+		"Quantity" : 142
+	},
+	{
+		"ProductID" : 943,
+		"LocationID" : 30,
+		"Quantity" : 129
+	},
+	{
+		"ProductID" : 943,
+		"LocationID" : 40,
+		"Quantity" : 88
+	},
+	{
+		"ProductID" : 943,
+		"LocationID" : 50,
+		"Quantity" : 140
+	},
+	{
+		"ProductID" : 943,
+		"LocationID" : 60,
+		"Quantity" : 118
+	},
+	{
+		"ProductID" : 944,
+		"LocationID" : 10,
+		"Quantity" : 112
+	},
+	{
+		"ProductID" : 944,
+		"LocationID" : 20,
+		"Quantity" : 96
+	},
+	{
+		"ProductID" : 944,
+		"LocationID" : 30,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 944,
+		"LocationID" : 45,
+		"Quantity" : 136
+	},
+	{
+		"ProductID" : 944,
+		"LocationID" : 50,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 944,
+		"LocationID" : 60,
+		"Quantity" : 134
+	},
+	{
+		"ProductID" : 945,
+		"LocationID" : 5,
+		"Quantity" : 347
+	},
+	{
+		"ProductID" : 945,
+		"LocationID" : 10,
+		"Quantity" : 236
+	},
+	{
+		"ProductID" : 945,
+		"LocationID" : 50,
+		"Quantity" : 270
+	},
+	{
+		"ProductID" : 946,
+		"LocationID" : 10,
+		"Quantity" : 248
+	},
+	{
+		"ProductID" : 946,
+		"LocationID" : 20,
+		"Quantity" : 257
+	},
+	{
+		"ProductID" : 946,
+		"LocationID" : 50,
+		"Quantity" : 297
+	},
+	{
+		"ProductID" : 947,
+		"LocationID" : 10,
+		"Quantity" : 244
+	},
+	{
+		"ProductID" : 947,
+		"LocationID" : 20,
+		"Quantity" : 254
+	},
+	{
+		"ProductID" : 947,
+		"LocationID" : 50,
+		"Quantity" : 294
+	},
+	{
+		"ProductID" : 948,
+		"LocationID" : 5,
+		"Quantity" : 347
+	},
+	{
+		"ProductID" : 948,
+		"LocationID" : 50,
+		"Quantity" : 420
+	},
+	{
+		"ProductID" : 949,
+		"LocationID" : 1,
+		"Quantity" : 265
+	},
+	{
+		"ProductID" : 949,
+		"LocationID" : 5,
+		"Quantity" : 336
+	},
+	{
+		"ProductID" : 949,
+		"LocationID" : 50,
+		"Quantity" : 284
+	},
+	{
+		"ProductID" : 950,
+		"LocationID" : 1,
+		"Quantity" : 272
+	},
+	{
+		"ProductID" : 950,
+		"LocationID" : 5,
+		"Quantity" : 342
+	},
+	{
+		"ProductID" : 950,
+		"LocationID" : 50,
+		"Quantity" : 291
+	},
+	{
+		"ProductID" : 951,
+		"LocationID" : 1,
+		"Quantity" : 278
+	},
+	{
+		"ProductID" : 951,
+		"LocationID" : 5,
+		"Quantity" : 348
+	},
+	{
+		"ProductID" : 951,
+		"LocationID" : 50,
+		"Quantity" : 297
+	},
+	{
+		"ProductID" : 952,
+		"LocationID" : 1,
+		"Quantity" : 236
+	},
+	{
+		"ProductID" : 952,
+		"LocationID" : 5,
+		"Quantity" : 192
+	},
+	{
+		"ProductID" : 952,
+		"LocationID" : 50,
+		"Quantity" : 161
+	},
+	{
+		"ProductID" : 953,
+		"LocationID" : 7,
+		"Quantity" : 116
+	},
+	{
+		"ProductID" : 953,
+		"LocationID" : 60,
+		"Quantity" : 49
+	},
+	{
+		"ProductID" : 954,
+		"LocationID" : 7,
+		"Quantity" : 65
+	},
+	{
+		"ProductID" : 954,
+		"LocationID" : 60,
+		"Quantity" : 83
+	},
+	{
+		"ProductID" : 955,
+		"LocationID" : 7,
+		"Quantity" : 75
+	},
+	{
+		"ProductID" : 955,
+		"LocationID" : 60,
+		"Quantity" : 62
+	},
+	{
+		"ProductID" : 956,
+		"LocationID" : 7,
+		"Quantity" : 35
+	},
+	{
+		"ProductID" : 956,
+		"LocationID" : 60,
+		"Quantity" : 40
+	},
+	{
+		"ProductID" : 957,
+		"LocationID" : 7,
+		"Quantity" : 51
+	},
+	{
+		"ProductID" : 957,
+		"LocationID" : 60,
+		"Quantity" : 100
+	},
+	{
+		"ProductID" : 958,
+		"LocationID" : 7,
+		"Quantity" : 128
+	},
+	{
+		"ProductID" : 958,
+		"LocationID" : 60,
+		"Quantity" : 35
+	},
+	{
+		"ProductID" : 959,
+		"LocationID" : 7,
+		"Quantity" : 83
+	},
+	{
+		"ProductID" : 959,
+		"LocationID" : 60,
+		"Quantity" : 121
+	},
+	{
+		"ProductID" : 960,
+		"LocationID" : 7,
+		"Quantity" : 54
+	},
+	{
+		"ProductID" : 960,
+		"LocationID" : 60,
+		"Quantity" : 105
+	},
+	{
+		"ProductID" : 961,
+		"LocationID" : 7,
+		"Quantity" : 88
+	},
+	{
+		"ProductID" : 961,
+		"LocationID" : 60,
+		"Quantity" : 80
+	},
+	{
+		"ProductID" : 962,
+		"LocationID" : 7,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 962,
+		"LocationID" : 60,
+		"Quantity" : 107
+	},
+	{
+		"ProductID" : 963,
+		"LocationID" : 7,
+		"Quantity" : 126
+	},
+	{
+		"ProductID" : 963,
+		"LocationID" : 60,
+		"Quantity" : 36
+	},
+	{
+		"ProductID" : 964,
+		"LocationID" : 7,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 964,
+		"LocationID" : 60,
+		"Quantity" : 116
+	},
+	{
+		"ProductID" : 965,
+		"LocationID" : 7,
+		"Quantity" : 91
+	},
+	{
+		"ProductID" : 965,
+		"LocationID" : 60,
+		"Quantity" : 72
+	},
+	{
+		"ProductID" : 966,
+		"LocationID" : 7,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 966,
+		"LocationID" : 60,
+		"Quantity" : 86
+	},
+	{
+		"ProductID" : 967,
+		"LocationID" : 7,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 967,
+		"LocationID" : 60,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 968,
+		"LocationID" : 7,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 968,
+		"LocationID" : 60,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 969,
+		"LocationID" : 7,
+		"Quantity" : 30
+	},
+	{
+		"ProductID" : 969,
+		"LocationID" : 60,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 970,
+		"LocationID" : 7,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 970,
+		"LocationID" : 60,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 971,
+		"LocationID" : 7,
+		"Quantity" : 104
+	},
+	{
+		"ProductID" : 971,
+		"LocationID" : 60,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 972,
+		"LocationID" : 7,
+		"Quantity" : 30
+	},
+	{
+		"ProductID" : 972,
+		"LocationID" : 60,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 973,
+		"LocationID" : 7,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 973,
+		"LocationID" : 60,
+		"Quantity" : 86
+	},
+	{
+		"ProductID" : 974,
+		"LocationID" : 7,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 974,
+		"LocationID" : 60,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 975,
+		"LocationID" : 7,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 975,
+		"LocationID" : 60,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 976,
+		"LocationID" : 7,
+		"Quantity" : 104
+	},
+	{
+		"ProductID" : 976,
+		"LocationID" : 60,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 977,
+		"LocationID" : 7,
+		"Quantity" : 88
+	},
+	{
+		"ProductID" : 977,
+		"LocationID" : 60,
+		"Quantity" : 65
+	},
+	{
+		"ProductID" : 978,
+		"LocationID" : 7,
+		"Quantity" : 91
+	},
+	{
+		"ProductID" : 978,
+		"LocationID" : 60,
+		"Quantity" : 72
+	},
+	{
+		"ProductID" : 979,
+		"LocationID" : 7,
+		"Quantity" : 86
+	},
+	{
+		"ProductID" : 979,
+		"LocationID" : 60,
+		"Quantity" : 78
+	},
+	{
+		"ProductID" : 980,
+		"LocationID" : 7,
+		"Quantity" : 51
+	},
+	{
+		"ProductID" : 980,
+		"LocationID" : 60,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 981,
+		"LocationID" : 7,
+		"Quantity" : 86
+	},
+	{
+		"ProductID" : 981,
+		"LocationID" : 60,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 982,
+		"LocationID" : 7,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 982,
+		"LocationID" : 60,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 983,
+		"LocationID" : 7,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 983,
+		"LocationID" : 60,
+		"Quantity" : 104
+	},
+	{
+		"ProductID" : 984,
+		"LocationID" : 7,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 984,
+		"LocationID" : 60,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 985,
+		"LocationID" : 7,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 985,
+		"LocationID" : 60,
+		"Quantity" : 104
+	},
+	{
+		"ProductID" : 986,
+		"LocationID" : 7,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 986,
+		"LocationID" : 60,
+		"Quantity" : 30
+	},
+	{
+		"ProductID" : 987,
+		"LocationID" : 7,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 987,
+		"LocationID" : 60,
+		"Quantity" : 56
+	},
+	{
+		"ProductID" : 988,
+		"LocationID" : 7,
+		"Quantity" : 78
+	},
+	{
+		"ProductID" : 988,
+		"LocationID" : 60,
+		"Quantity" : 116
+	},
+	{
+		"ProductID" : 989,
+		"LocationID" : 7,
+		"Quantity" : 51
+	},
+	{
+		"ProductID" : 989,
+		"LocationID" : 60,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 990,
+		"LocationID" : 7,
+		"Quantity" : 86
+	},
+	{
+		"ProductID" : 990,
+		"LocationID" : 60,
+		"Quantity" : 67
+	},
+	{
+		"ProductID" : 991,
+		"LocationID" : 7,
+		"Quantity" : 81
+	},
+	{
+		"ProductID" : 991,
+		"LocationID" : 60,
+		"Quantity" : 73
+	},
+	{
+		"ProductID" : 992,
+		"LocationID" : 7,
+		"Quantity" : 60
+	},
+	{
+		"ProductID" : 992,
+		"LocationID" : 60,
+		"Quantity" : 104
+	},
+	{
+		"ProductID" : 993,
+		"LocationID" : 7,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 993,
+		"LocationID" : 60,
+		"Quantity" : 30
+	},
+	{
+		"ProductID" : 994,
+		"LocationID" : 1,
+		"Quantity" : 244
+	},
+	{
+		"ProductID" : 994,
+		"LocationID" : 6,
+		"Quantity" : 358
+	},
+	{
+		"ProductID" : 994,
+		"LocationID" : 50,
+		"Quantity" : 212
+	},
+	{
+		"ProductID" : 995,
+		"LocationID" : 1,
+		"Quantity" : 230
+	},
+	{
+		"ProductID" : 995,
+		"LocationID" : 6,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 995,
+		"LocationID" : 50,
+		"Quantity" : 265
+	},
+	{
+		"ProductID" : 996,
+		"LocationID" : 1,
+		"Quantity" : 321
+	},
+	{
+		"ProductID" : 996,
+		"LocationID" : 6,
+		"Quantity" : 475
+	},
+	{
+		"ProductID" : 996,
+		"LocationID" : 50,
+		"Quantity" : 174
+	},
+	{
+		"ProductID" : 997,
+		"LocationID" : 7,
+		"Quantity" : 123
+	},
+	{
+		"ProductID" : 997,
+		"LocationID" : 60,
+		"Quantity" : 30
+	},
+	{
+		"ProductID" : 998,
+		"LocationID" : 7,
+		"Quantity" : 99
+	},
+	{
+		"ProductID" : 998,
+		"LocationID" : 60,
+		"Quantity" : 56
+	},
+	{
+		"ProductID" : 999,
+		"LocationID" : 7,
+		"Quantity" : 78
+	},
+	{
+		"ProductID" : 999,
+		"LocationID" : 60,
+		"Quantity" : 116
+	}
+]

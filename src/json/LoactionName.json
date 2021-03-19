@@ -1,0 +1,58 @@
+[
+	{
+		"LocationID" : 30,
+		"Name" : "Location A"
+	},
+	{
+		"LocationID" : 60,
+		"Name" : "Location B"
+	},
+	{
+		"LocationID" : 7,
+		"Name" : "Location C"
+	},
+	{
+		"LocationID" : 10,
+		"Name" : "Location D"
+	},
+	{
+		"LocationID" : 20,
+		"Name" : "Location E"
+	},
+	{
+		"LocationID" : 5,
+		"Name" : "Location F"
+	},
+	{
+		"LocationID" : 6,
+		"Name" : "Location G"
+	},
+	{
+		"LocationID" : 40,
+		"Name" : "Location H"
+	},
+	{
+		"LocationID" : 3,
+		"Name" : "Location I"
+	},
+	{
+		"LocationID" : 4,
+		"Name" : "Location J"
+	},
+	{
+		"LocationID" : 2,
+		"Name" : "Location K"
+	},
+	{
+		"LocationID" : 45,
+		"Name" : "Location L"
+	},
+	{
+		"LocationID" : 50,
+		"Name" : "Location M"
+	},
+	{
+		"LocationID" : 1,
+		"Name" : "Location N"
+	}
+]

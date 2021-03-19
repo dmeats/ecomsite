@@ -1,0 +1,57 @@
+.homescreen-container{
+    background-color: rgb(5, 77, 38);
+    height:100%;
+    width: 100%;
+    padding-bottom: 4%;
+    
+    position: relative;
+}
+.homescreen-container-details{
+    position: relative;
+    width: 76%;
+    height:600px;
+    left:19%;
+    top: 4%;
+    padding-top: 10%;
+    padding-left: 1%;
+    
+}
+.title{
+    position: absolute;
+    top:3%;
+    width: 30px;
+    height:400px;
+    left:10%;
+    color: rgb(8, 12, 251);
+}
+@media screen and (max-width: 414px) {
+
+    .homescreen-container{
+        background-color: rgb(5, 77, 38);
+        height:100%;
+        width: 100%;
+        padding-bottom: 4%;
+        
+        position: relative;
+    }
+
+    .homescreen-container-details{
+    
+        position: relative;
+        height:600px;
+        top: 3%;
+        width: 89%;
+        left:4%;
+        padding-left: 3%;
+        padding-bottom: 2%;
+    
+    }
+    .title{
+        position: absolute;
+        top:3%;
+        width: 300px;
+        height:400px;
+        left:10%;
+        color: rgb(8, 12, 251);
+    }
+}

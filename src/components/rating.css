@@ -1,0 +1,16 @@
+.stars {
+    position: relative;
+    left:1%;
+    display: flex;
+  flex-wrap: nowrap;
+  
+  }
+  
+.stars >  star {
+    
+  width: 10px;
+  margin: 1px;
+  text-align: left;
+  line-height: 75px;
+      
+  }
