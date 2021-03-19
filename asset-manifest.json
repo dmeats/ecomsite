@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ecomsite/static/css/main.9208774d.chunk.css",
+    "main.js": "/ecomsite/static/js/main.ca8f3525.chunk.js",
+    "main.js.map": "/ecomsite/static/js/main.ca8f3525.chunk.js.map",
+    "runtime-main.js": "/ecomsite/static/js/runtime-main.4444632d.js",
+    "runtime-main.js.map": "/ecomsite/static/js/runtime-main.4444632d.js.map",
+    "static/js/2.3653b4a1.chunk.js": "/ecomsite/static/js/2.3653b4a1.chunk.js",
+    "static/js/2.3653b4a1.chunk.js.map": "/ecomsite/static/js/2.3653b4a1.chunk.js.map",
+    "static/js/3.8c3957f1.chunk.js": "/ecomsite/static/js/3.8c3957f1.chunk.js",
+    "static/js/3.8c3957f1.chunk.js.map": "/ecomsite/static/js/3.8c3957f1.chunk.js.map",
+    "index.html": "/ecomsite/index.html",
+    "static/css/main.9208774d.chunk.css.map": "/ecomsite/static/css/main.9208774d.chunk.css.map",
+    "static/js/2.3653b4a1.chunk.js.LICENSE.txt": "/ecomsite/static/js/2.3653b4a1.chunk.js.LICENSE.txt",
+    "static/media/CART.90b5a8d2.svg": "/ecomsite/static/media/CART.90b5a8d2.svg",
+    "static/media/MNGICON.058b7d1c.svg": "/ecomsite/static/media/MNGICON.058b7d1c.svg",
+    "static/media/StarYellow.1e9e90d1.svg": "/ecomsite/static/media/StarYellow.1e9e90d1.svg",
+    "static/media/Stargrey.3f9c2130.svg": "/ecomsite/static/media/Stargrey.3f9c2130.svg",
+    "static/media/USER.18e9862b.svg": "/ecomsite/static/media/USER.18e9862b.svg",
+    "static/media/add.76ef7be6.svg": "/ecomsite/static/media/add.76ef7be6.svg",
+    "static/media/background.fb979d98.png": "/ecomsite/static/media/background.fb979d98.png",
+    "static/media/close_x_icon.29cb5938.svg": "/ecomsite/static/media/close_x_icon.29cb5938.svg",
+    "static/media/hamburger.32f8c346.svg": "/ecomsite/static/media/hamburger.32f8c346.svg",
+    "static/media/mobile_background.d83d41af.png": "/ecomsite/static/media/mobile_background.d83d41af.png",
+    "static/media/subtract.1c5e61b1.svg": "/ecomsite/static/media/subtract.1c5e61b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4444632d.js",
+    "static/js/2.3653b4a1.chunk.js",
+    "static/css/main.9208774d.chunk.css",
+    "static/js/main.ca8f3525.chunk.js"
+  ]
+}
