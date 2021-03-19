@@ -6,9 +6,10 @@
 }
 .root-app{
     /**background-image: url('/src/Assets/images/curved_background.png');**/
-    position: fixed;  
+    position: flex;  
     height: 100%;
     width: 100%;
+    
    
    
   }
