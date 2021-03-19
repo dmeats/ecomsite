@@ -124,15 +124,15 @@
     .CompanyName{
        
         top:10%;
-        left:30%;
+        left:28%;
         width: 170px;
         height: 25px;
         
     }
     .SearchInputBox{
         position: absolute;
-        top:45%;
-        left:17%;
+        top:43%;
+        left:10%;
         width: 40%;
         height: 34px;
        
@@ -144,7 +144,7 @@
         width: 30px;
         height:39px;
         top:45%;
-        left:52.8%;
+        left:50.8%;
         
     }
     .iconitemsContainer{
@@ -159,7 +159,7 @@
        
     }
     .hamburger{
-        left:5%;
+        left:2%;
         top:48%;
         position: absolute;
         display: flex;

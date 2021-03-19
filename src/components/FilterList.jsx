@@ -307,7 +307,7 @@ const  FilterList = (props) => {
 
     
 
-    if(nm==='Catorgory'){
+    if(nm==='Category'){
     return (
         <div>
             <FormControl>

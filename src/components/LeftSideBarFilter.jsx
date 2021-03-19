@@ -164,7 +164,7 @@ const  LeftSideBarFilter = () => {
         
              <div className='closebutton' ><img src={xbutton} width='34px' height='34px' onClick={e=>closeNav()}></img></div>
                 <div className={classes.root}>
-                    <MyAccordion name="Catorgory" list = {CategoryList}/>
+                    <MyAccordion name="Category" list = {CategoryList}/>
                     <MyAccordion name="Rating" list ={ratinglist}/>
                     <MyAccordion name="Price" list={Pricelist}/>
                     <MyAccordion name="Color" list={Colorlist}/>
