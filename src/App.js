@@ -101,11 +101,13 @@ function App() {
       }}>
     <div className="App">
             <div className={ShowNoShowApprootScreen} >
+            hi there
                         <Header/>
                         <LeftSideBarFilter/>
                         <Homescreen/>
                         <ProductList/>
               </div>
+              
       <Switch>
       <Route exact path='/'  component={Homescreen}/>
       <Route exact path='/component/:id'  component={ProductDetailScreen}/>
