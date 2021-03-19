@@ -20,6 +20,8 @@ import { PlayCircleFilledWhite } from '@material-ui/icons';
 const CheckoutSummaryScreen =()=> {
     const aPPLContext = useContext(APPLContext)
     const totalprice = useRef(0)
+    aPPLContext.ShowNoShowApprootScreen='dontshow'
+    aPPLContext.ChangeShowNoShowApprootScreen(aPPLContext.ShowNoShowApprootScreen)
   
  const useStyles = makeStyles({
         table: {

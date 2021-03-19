@@ -1,11 +1,13 @@
 
 import './App.css';
-import React, {useState} from 'react';
+import React, {useState,useContext} from 'react';
 import Header from './components/Header'
 import ProductList from'./components/ProductList'
 import { Switch, Route } from 'react-router-dom';
 import Homescreen from './components/Homescreen'
 import ProductDetailScreen from './components/ProductDetailScreen'
+import LeftSideBarFilter from './components/LeftSideBarFilter'
+
 import CheckoutSummaryScreen from './components/CheckoutSummaryScreen'
 import MasterDataDetailList from './json/MasterDetailListInfo.json'
 export const APPLContext = React.createContext({
@@ -22,6 +24,7 @@ export const APPLContext = React.createContext({
  ShowNoShowProductDetail:'Detail-Product-info',
  ShowNoShowcheckoutcontainer:'checkoutListContainer',
  ShowNoShowHomeScreen:'homescreen-container-details',
+ ShowNoShowApprootScreen:'root-app',
   ChangeConList: ()  => {},
   Changecartitems: ()  => {},
   Changecartcounter: ()  => {},
@@ -33,6 +36,7 @@ export const APPLContext = React.createContext({
   ChangeShowNoShowProductDetail: ()  => {},
   ChangeShowNoShowcheckoutcontainer: ()  => {},
   ChangeShowNoShowHomeScreen: ()  => {},
+  ChangeShowNoShowApprootScreen: ()  => {},
   Changecheckboxes: ()  => {},
  });
 
@@ -49,6 +53,8 @@ function App() {
   const [ShowNoShowProductDetail, setShowNoShowProductDetail] = useState('Detail-Product-info')
   const [ShowNoShowcheckoutcontainer, setShowNoShowcheckoutcontainer] = useState('checkoutListContainer')
   const [ShowNoShowHomeScreen, setShowNoShowHomeScreen] = useState('homescreen-container-details')
+  const [ShowNoShowApprootScreen, setShowNoShowApprootScreen] = useState('root-app')
+  
   const [checkboxes, setcheckboxes] = useState({
         Accessories: true,
         Bikes: true,
@@ -71,6 +77,7 @@ function App() {
       ShowNoShowProductDetail,
       ShowNoShowcheckoutcontainer,
       ShowNoShowHomeScreen,
+      ShowNoShowApprootScreen,
       checkboxes,
 
       ChangeConList: ConList => setConList(ConList),
@@ -84,13 +91,19 @@ function App() {
       ChangeShowNoShowProductDetail: ShowNoShowProductDetail => setShowNoShowProductDetail(ShowNoShowProductDetail),
       ChangeShowNoShowcheckoutcontainer: ShowNoShowcheckoutcontainer => setShowNoShowcheckoutcontainer(ShowNoShowcheckoutcontainer),
       ChangeShowNoShowHomeScreen: ShowNoShowHomeScreen => setShowNoShowHomeScreen(ShowNoShowHomeScreen),
+      ChangeShowNoShowApprootScreen: ShowNoShowApprootScreen => setShowNoShowApprootScreen(ShowNoShowApprootScreen),
+     
       Changecheckboxes: checkboxes => setcheckboxes(checkboxes),
      
       
       }}>
     <div className="App">
-     
-      
+            <div className={ShowNoShowApprootScreen} >
+                        <Header/>
+                        <LeftSideBarFilter/>
+                        <Homescreen/>
+                        <ProductList/>
+              </div>
       <Switch>
       <Route exact path='/'  component={Homescreen}/>
       <Route exact path='/component/:id'  component={ProductDetailScreen}/>

@@ -13,6 +13,8 @@ const Homescreen = () => {
     //console.log('in homescreen')
     const aPPLContext = useContext(APPLContext)
     const { height, width } = useWindowDimensions();
+    aPPLContext.ShowNoShowApprootScreen='dontshow'
+    aPPLContext.ChangeShowNoShowApprootScreen(aPPLContext.ShowNoShowApprootScreen)
     console.log(width)
     if(width > 425){
     return (
