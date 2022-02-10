@@ -160,7 +160,7 @@
     }
     .hamburger{
         left:2%;
-        top:48%;
+        top:12%;
         position: absolute;
         display: flex;
         cursor: pointer;
