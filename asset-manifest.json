@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecomsite/static/css/main.e5944bc7.chunk.css",
+    "main.css": "/ecomsite/static/css/main.fae74359.chunk.css",
     "main.js": "/ecomsite/static/js/main.71849b44.chunk.js",
     "main.js.map": "/ecomsite/static/js/main.71849b44.chunk.js.map",
     "runtime-main.js": "/ecomsite/static/js/runtime-main.4444632d.js",
@@ -10,7 +10,7 @@
     "static/js/3.8c3957f1.chunk.js": "/ecomsite/static/js/3.8c3957f1.chunk.js",
     "static/js/3.8c3957f1.chunk.js.map": "/ecomsite/static/js/3.8c3957f1.chunk.js.map",
     "index.html": "/ecomsite/index.html",
-    "static/css/main.e5944bc7.chunk.css.map": "/ecomsite/static/css/main.e5944bc7.chunk.css.map",
+    "static/css/main.fae74359.chunk.css.map": "/ecomsite/static/css/main.fae74359.chunk.css.map",
     "static/js/2.8dccf468.chunk.js.LICENSE.txt": "/ecomsite/static/js/2.8dccf468.chunk.js.LICENSE.txt",
     "static/media/CART.90b5a8d2.svg": "/ecomsite/static/media/CART.90b5a8d2.svg",
     "static/media/MNGICON.058b7d1c.svg": "/ecomsite/static/media/MNGICON.058b7d1c.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.4444632d.js",
     "static/js/2.8dccf468.chunk.js",
-    "static/css/main.e5944bc7.chunk.css",
+    "static/css/main.fae74359.chunk.css",
     "static/js/main.71849b44.chunk.js"
   ]
 }
