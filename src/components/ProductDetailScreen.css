@@ -78,10 +78,10 @@
   }
   @media screen and (max-width: 414px) {
     .Detail-Product-info {
-      padding: .5rem;
+      padding: 1px;
       
       height:800px;
-      padding-left: 2%;
+      padding-left: 0%;
       padding-top: 3%;
     }
     .cartbutton{

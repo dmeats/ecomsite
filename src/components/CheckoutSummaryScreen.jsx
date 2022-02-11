@@ -25,7 +25,7 @@ const CheckoutSummaryScreen =()=> {
   
  const useStyles = makeStyles({
         table: {
-          maxWidth: 90,
+          maxWidth: '40px',
           background: 'White',
         },
       });
@@ -86,10 +86,7 @@ const CheckoutSummaryScreen =()=> {
         aPPLContext.TotalPrice = aPPLContext.TotalPrice - prodprice
        // console.log(aPPLContext.cartitems);
         aPPLContext.ChangeTotalPrice(aPPLContext.TotalPrice)
-       // aPPLContext.Changecartcounter(aPPLContext.cartcounter)
-       // console.log(aPPLContext.cartcounter)
-       // aPPLContext.cartitems.push({ prodID:product.ProductID,prodname:product.Name, prodprice:product.ListPrice })
-       
+      
 
 
     }
@@ -120,8 +117,8 @@ const CheckoutSummaryScreen =()=> {
               <TableCell align="left">{row.prodID}</TableCell>
               <TableCell align="left">{row.prodname}</TableCell>
               <TableCell align="left">{row.prodprice}</TableCell>
-              <TableCell align="left" onClick={() => additem(row.prodID,row.prodprice,row.prodname)}><img src={add} width='17px' height='17px'></img></TableCell>
-              <TableCell align="left" onClick={() => subtractitem(row.prodID,row.prodprice)}><img src={subtract} width='17px' height='17px'></img></TableCell>
+              <TableCell align="left" onClick={() => additem(row.prodID,row.prodprice,row.prodname)}><img src={add} width='8px' height='8px'></img></TableCell>
+              <TableCell align="left" onClick={() => subtractitem(row.prodID,row.prodprice)}><img src={subtract} width='8px' height='8px'></img></TableCell>
               
             </TableRow>
           ))}

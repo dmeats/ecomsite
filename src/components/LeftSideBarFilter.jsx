@@ -1,4 +1,4 @@
-import React,{useState,useContext,useEffect} from 'react'
+import React,{useState,useContext} from 'react'
 import {APPLContext} from './../App'
 import useWindowDimensions from './usewindowsize'
 import CategoryList from '../json/CategoryList.json'
@@ -15,8 +15,12 @@ const  LeftSideBarFilter = () => {
   let  [,setState]=useState();
   const { height, width } = useWindowDimensions();
   const aPPLContext = useContext(APPLContext)
-    const useStyles = makeStyles((theme) => ({
+
+  
+    const useDesktopStyles = makeStyles((theme) => ({
+      
         root: {
+          
           width: "220px",
           background: 'rgb(148, 123, 123)',
           height: "25vh",
@@ -25,6 +29,18 @@ const  LeftSideBarFilter = () => {
         }
       }));
 
+      //sets the width for the drop downs on the flyout menu in mobile mode
+      const usemobileStyles = makeStyles((theme) => ({
+      
+        root: {
+          
+          width: "380px",
+          background: 'rgb(148, 123, 123)',
+          height: "25vh",
+          display: "flex",
+          flexDirection: "column"
+        }
+      }));
       const ratinglist = [{
                             "StarId" : 1,
                             "Rating" : 1,
@@ -111,30 +127,16 @@ const  LeftSideBarFilter = () => {
 
 
                         ]
-      const classes = useStyles();
 
-      const unCheck = () => {
-        
-     //   let b = document.getElementsByClassName("PrivateSwitchBase-input-10");
-        
-     //   for(let i=0; i<b.length; i++) {
-     //     console.log('indexvalue = ' + b[i] + ' = '+ b[i].checked)
-     //   b[i].checked = false;
-       
-     //   }  
-    
-    //    aPPLContext.checkboxes.Accessories = false
-     // let value = aPPLContext.checkboxes.Accessories
-     //   console.log(value)
-      //  aPPLContext.Changecheckboxes(value)
-      //  aPPLContext.checkboxarray.splice(0, aPPLContext.checkboxarray.length)
-       
-    }
+                                    
+      const Desktopclasses = useDesktopStyles();
+      const Mobileclasses = usemobileStyles();                 
+      
 
       const closeNav = () =>{
         setState({});
         
-        unCheck()
+        
         document.getElementById(aPPLContext.sidenavidname).style.width = "0px";
         console.log('closing sidenav')
         
@@ -151,19 +153,16 @@ const  LeftSideBarFilter = () => {
              
         console.log('checking width')
       }
+    
     }
 
-   // useEffect(() => {
-   //   checkwidth()
-      
-   // }, [])
-    
-
+   
+    if(width > 415){
     return (
         <div id={aPPLContext.sidenavidname} onLoad={()=>checkwidth()}>
         
              <div className='closebutton' ><img src={xbutton} width='34px' height='34px' onClick={e=>closeNav()}></img></div>
-                <div className={classes.root}>
+                <div className={Desktopclasses.root}>
                     <MyAccordion name="Category" list = {CategoryList}/>
                     <MyAccordion name="Rating" list ={ratinglist}/>
                     <MyAccordion name="Price" list={Pricelist}/>
@@ -173,6 +172,23 @@ const  LeftSideBarFilter = () => {
            
         </div>
     )
+    }else{
+      return (
+        <div id={aPPLContext.sidenavidname} onLoad={()=>checkwidth()}>
+        
+             <div className='closebutton' ><img src={xbutton} width='34px' height='34px' onClick={e=>closeNav()}></img></div>
+                <div className={Mobileclasses.root}>
+                    <MyAccordion name="Category" list = {CategoryList}/>
+                    <MyAccordion name="Rating" list ={ratinglist}/>
+                    <MyAccordion name="Price" list={Pricelist}/>
+                    <MyAccordion name="Color" list={Colorlist}/>
+                   
+                    </div>
+           
+        </div>
+    )
+    }
 }
+
 
 export default LeftSideBarFilter

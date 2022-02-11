@@ -77,7 +77,7 @@ const Header = () =>{
      
      const openNav = () => {
         setState({});
-        document.getElementById(aPPLContext.sidenavidname).style.width = "270px";
+        document.getElementById(aPPLContext.sidenavidname).style.width = "100%";
         
       }
      const displaycheckoutScreen = () =>{
