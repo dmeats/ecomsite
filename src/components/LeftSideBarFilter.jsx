@@ -34,7 +34,7 @@ const  LeftSideBarFilter = () => {
       
         root: {
           
-          width: "380px",
+          width: "365px",
           background: 'rgb(148, 123, 123)',
           height: "25vh",
           display: "flex",
@@ -161,8 +161,9 @@ const  LeftSideBarFilter = () => {
     return (
         <div id={aPPLContext.sidenavidname} onLoad={()=>checkwidth()}>
         
-             <div className='closebutton' ><img src={xbutton} width='34px' height='34px' onClick={e=>closeNav()}></img></div>
-                <div className={Desktopclasses.root}>
+               <div className={Desktopclasses.root}>
+               <div className='closebutton' ><img src={xbutton} width='34px' height='34px' onClick={e=>closeNav()}></img></div>
+              
                     <MyAccordion name="Category" list = {CategoryList}/>
                     <MyAccordion name="Rating" list ={ratinglist}/>
                     <MyAccordion name="Price" list={Pricelist}/>
@@ -176,8 +177,9 @@ const  LeftSideBarFilter = () => {
       return (
         <div id={aPPLContext.sidenavidname} onLoad={()=>checkwidth()}>
         
-             <div className='closebutton' ><img src={xbutton} width='34px' height='34px' onClick={e=>closeNav()}></img></div>
                 <div className={Mobileclasses.root}>
+                <div className='closebutton' ><img src={xbutton} width='34px' height='34px' onClick={e=>closeNav()}></img></div>
+             
                     <MyAccordion name="Category" list = {CategoryList}/>
                     <MyAccordion name="Rating" list ={ratinglist}/>
                     <MyAccordion name="Price" list={Pricelist}/>

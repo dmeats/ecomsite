@@ -67,7 +67,7 @@
 @media screen and (max-width: 414px) {
     #mySidenav{
         display: flex;
-        background-color: rgb(96, 98, 236);
+        background-color: rgb(148, 123, 123);
         top:120px;
         flex-direction: column;
         position: fixed;
@@ -84,10 +84,10 @@
     }
     .closebutton{
        padding-left:87%;
-       width:100%;
+       width:0%;
        height:40px;
         top:0%;
-        background-color: rgba(10, 199, 183, 0.678);
+        background-color: rgb(148, 123, 123);
         position: -webkit-sticky; /* Safari */
         position: sticky;
         display: flex;
