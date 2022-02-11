@@ -39,11 +39,15 @@ const Homescreen = () => {
                 <Header/>
                 <LeftSideBarFilter/>
                 <ProductList/>
-                <div className={aPPLContext.ShowNoShowHomeScreen} style={{ backgroundImage: `url(${mobilebackground})`,backgroundRepeat: 'no-repeat' }}>
+                <div className={aPPLContext.ShowNoShowHomeScreen}>
                 <div className='title'>
                        <h1>Best Bike shop on the planet</h1>
                        </div>
+                       <img src={mobilebackground} alt="image" width ="1370px" height ="500px"/>
+                
                 </div>
+                       
+                
                 
                 
             </div>

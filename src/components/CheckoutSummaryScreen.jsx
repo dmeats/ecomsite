@@ -25,7 +25,7 @@ const CheckoutSummaryScreen =()=> {
   
  const useStyles = makeStyles({
         table: {
-          maxWidth: '40px',
+          maxWidth: '30px',
           background: 'White',
         },
       });
