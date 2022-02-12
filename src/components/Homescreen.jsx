@@ -26,7 +26,7 @@ const Homescreen = () => {
             <div className={aPPLContext.ShowNoShowHomeScreen} style={{ backgroundImage: `url(${desktopbackground})`,backgroundRepeat: 'no-repeat' }}>
                        <div className='title'>
                        <h1>Best Bike shop on the planet</h1>
-                       </div>
+                       </div>y
             </div>
             
             
