@@ -1,5 +1,5 @@
 .homescreen-container{
-    background-color: rgb(5, 77, 38);
+    background-image:linear-gradient( rgb(0, 0, 0),rgb(0, 0, 0));
     height:100%;
     width: 100%;
     padding-bottom: 4%;
@@ -19,15 +19,15 @@
 .title{
     position: absolute;
     top:3%;
-    width: 30px;
+    width: 100px;
     height:400px;
     left:10%;
-    color: rgb(8, 12, 251);
+    color: rgb(208, 209, 231);
 }
 @media screen and (max-width: 414px) {
 
     .homescreen-container{
-        background-color: rgb(5, 77, 38);
+        background-color: rgb(0, 0, 0);
         height:100%;
         width: 100%;
         padding-bottom: 4%;
@@ -52,6 +52,6 @@
         width: 300px;
         height:400px;
         left:10%;
-        color: rgb(8, 12, 251);
+        color: rgb(208, 209, 231);
     }
 }

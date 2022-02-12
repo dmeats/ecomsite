@@ -1,9 +1,11 @@
 /* Detail-Product-info styles */
-
+.Detail-Product-name{
+  font:red;
+}
 
 .Detail-Product-info {
     padding: .5rem;
-    background-color: rgb(153, 153, 209);
+    background-color: rgb(0, 0, 0);
     height:800px;
     padding-left: 14%;
   }
@@ -81,7 +83,7 @@
       padding: 1px;
       
       height:800px;
-      padding-left: 0%;
+      left: 3%;
       padding-top: 6%;
     }
     .cartbutton{

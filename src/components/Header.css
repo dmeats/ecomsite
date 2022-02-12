@@ -9,9 +9,11 @@
     flex-direction: row;
     width: 100%;
     height:100px;
-    background-image:linear-gradient( rgb(98, 62, 21),rgb(151, 118, 81));
-    
-    z-index: 300;
+    background-image:linear-gradient( rgb(63, 37, 8),rgb(228, 223, 217));
+    border-bottom: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: rgb(77, 236, 3);
+    z-index: 500;
 }
 .CompanyName{
     position: absolute;
@@ -19,10 +21,12 @@
     left:1.5%;
     width: 170px;
     height: 25px;
-    background-color: rgb(69, 160, 77);
+    background-color: rgb(160, 143, 69);
     border-radius: 10px;
+    
     border:solid;
-    border-color: rgb(5, 5, 5);
+    border-width: 10px;
+    border-color: rgb(241, 225, 225);
 }
 .SearchInputBox{
     position: absolute;
@@ -30,9 +34,10 @@
     left:32%;
     width: 40%;
     height: 25px;
-    background-color: rgb(69, 160, 77);
+    background-color: rgb(253, 228, 4);
     border-radius: 10px;
     border:solid;
+    border-width: 2px;
     border-color: rgb(0, 0, 0);
 
 }
@@ -58,9 +63,10 @@
     width: 128px;
     height: 35px;
     border:solid;
+    border-width: 1px;
     border-radius:10px ;
     border-color: black;
-    background-color: rgb(69, 160, 77);
+    background-color: rgb(10, 233, 28);
 }
 .UserAccountIcon{
     position: absolute;
@@ -127,6 +133,7 @@
         left:28%;
         width: 170px;
         height: 25px;
+        border-width: 1px;
         
     }
     .SearchInputBox{
@@ -142,7 +149,7 @@
         position: absolute;
         
         width: 30px;
-        height:39px;
+        height:40px;
         top:43%;
         left:50.8%;
         
